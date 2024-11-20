@@ -1,0 +1,1001 @@
+Client_ID,Type_Données,Niveau_Protection,Evénement_Sécurité,Statut_Protection,Date_Mise_à _Jour,Responsable_Sécurité
+1,passwords,élevé,intrusion détectée,Annulé,1/24/2021,Bob
+2,medical history,Faible,vulnérabilité identifiée,Terminé,2/27/2019,Alice
+3,private photos,Très élevé,attaque en cours,En cours,1/31/2019,Bob
+4,medical history,Très élevé,intrusion détectée,En attente,1/13/2019,Charlie
+5,bank account details,Faible,intrusion détectée,Terminé,5/26/2019,Eve
+6,financial records,élevé,attaque en cours,Terminé,2/2/2020,Bob
+7,personal messages,Très élevé,vulnérabilité identifiée,En cours,7/25/2019,Charlie
+8,personal messages,élevé,tentative d'accès non autorisée,En attente,8/17/2020,Charlie
+9,personal messages,Faible,attaque en cours,En cours,4/25/2020,Eve
+10,bank account details,Faible,tentative d'accès non autorisée,En cours,8/1/2019,Charlie
+11,personal messages,Faible,attaque en cours,En cours,9/24/2020,Bob
+12,bank account details,Faible,attaque en cours,En cours,5/19/2019,Alice
+13,personal emails,élevé,attaque en cours,En cours,3/24/2019,David
+14,financial records,Faible,vulnérabilité identifiée,En cours,8/7/2019,Alice
+15,personal messages,Très élevé,vulnérabilité identifiée,En attente,3/4/2019,Charlie
+16,medical history,Très élevé,intrusion détectée,Terminé,2/5/2019,Eve
+17,personal emails,Faible,vulnérabilité identifiée,Annulé,7/26/2020,Charlie
+18,passwords,Moyen,intrusion détectée,Annulé,10/7/2020,Bob
+19,personal emails,Faible,tentative d'accès non autorisée,En cours,2/21/2021,Charlie
+20,personal emails,Très élevé,attaque en cours,Terminé,10/2/2019,Eve
+21,confidential documents,élevé,attaque en cours,Annulé,12/9/2021,Bob
+22,bank account details,élevé,vulnérabilité identifiée,Terminé,12/4/2019,David
+23,bank account details,Faible,tentative d'accès non autorisée,En attente,12/3/2019,Alice
+24,social security numbers,élevé,vulnérabilité identifiée,En cours,2/6/2020,Eve
+25,financial records,élevé,attaque en cours,En attente,9/12/2021,David
+26,confidential documents,Très élevé,vulnérabilité identifiée,En attente,10/9/2020,Charlie
+27,private photos,Faible,attaque en cours,Terminé,8/28/2019,Eve
+28,medical history,Moyen,intrusion détectée,Annulé,11/29/2020,Bob
+29,confidential documents,Moyen,attaque en cours,Annulé,5/6/2021,Alice
+30,confidential documents,Très élevé,attaque en cours,En cours,10/3/2020,Charlie
+31,bank account details,Très élevé,intrusion détectée,En attente,1/27/2020,Bob
+32,personal messages,Moyen,tentative d'accès non autorisée,Annulé,11/19/2021,Eve
+33,financial records,élevé,tentative d'accès non autorisée,Terminé,7/17/2020,Eve
+34,passwords,Moyen,vulnérabilité identifiée,En attente,7/24/2019,Bob
+35,social security numbers,Faible,intrusion détectée,En cours,2/9/2020,Eve
+36,passwords,Très élevé,attaque en cours,En attente,10/4/2019,Charlie
+37,private photos,Très élevé,intrusion détectée,Terminé,8/11/2019,David
+38,confidential documents,Faible,attaque en cours,En cours,2/1/2020,David
+39,personal emails,Moyen,intrusion détectée,Terminé,3/2/2020,David
+40,private photos,élevé,intrusion détectée,Annulé,5/17/2020,Bob
+41,financial records,Faible,vulnérabilité identifiée,En cours,2/23/2020,Bob
+42,personal emails,élevé,intrusion détectée,Annulé,11/30/2021,Bob
+43,personal messages,élevé,tentative d'accès non autorisée,En attente,11/9/2019,Alice
+44,private photos,Faible,tentative d'accès non autorisée,Annulé,6/5/2019,David
+45,confidential documents,élevé,intrusion détectée,Annulé,10/10/2019,Charlie
+46,financial records,Très élevé,attaque en cours,Annulé,12/17/2019,David
+47,passwords,Très élevé,intrusion détectée,En attente,3/28/2019,Bob
+48,confidential documents,Très élevé,vulnérabilité identifiée,En cours,2/24/2020,David
+49,medical history,Faible,tentative d'accès non autorisée,Terminé,11/18/2021,Bob
+50,social security numbers,Moyen,attaque en cours,En cours,12/20/2020,Alice
+51,medical history,Très élevé,attaque en cours,Terminé,4/5/2020,Charlie
+52,financial records,Faible,intrusion détectée,En attente,11/4/2020,Alice
+53,financial records,Moyen,tentative d'accès non autorisée,En cours,3/26/2020,David
+54,confidential documents,Faible,attaque en cours,Terminé,8/17/2021,Charlie
+55,private photos,Moyen,attaque en cours,Annulé,4/8/2021,Eve
+56,social security numbers,Moyen,intrusion détectée,Terminé,7/1/2020,Alice
+57,financial records,élevé,intrusion détectée,En cours,4/12/2021,Alice
+58,passwords,élevé,attaque en cours,Terminé,5/2/2019,David
+59,financial records,Moyen,vulnérabilité identifiée,Terminé,4/20/2019,Alice
+60,social security numbers,Très élevé,tentative d'accès non autorisée,En attente,2/4/2019,Alice
+61,social security numbers,Faible,intrusion détectée,En cours,11/23/2019,Bob
+62,passwords,Très élevé,attaque en cours,Annulé,4/29/2021,Alice
+63,passwords,Moyen,tentative d'accès non autorisée,Terminé,2/20/2020,Alice
+64,personal emails,élevé,intrusion détectée,Terminé,8/20/2021,Alice
+65,credit card information,Faible,vulnérabilité identifiée,Terminé,8/9/2021,Alice
+66,confidential documents,Moyen,intrusion détectée,En attente,6/28/2021,Eve
+67,medical history,Faible,attaque en cours,Terminé,7/21/2021,Eve
+68,passwords,Très élevé,vulnérabilité identifiée,Terminé,1/13/2021,Bob
+69,bank account details,Faible,attaque en cours,Annulé,12/22/2020,Charlie
+70,financial records,élevé,vulnérabilité identifiée,Annulé,10/12/2019,David
+71,credit card information,élevé,vulnérabilité identifiée,En cours,11/11/2020,Eve
+72,financial records,élevé,vulnérabilité identifiée,En cours,2/16/2019,Alice
+73,passwords,élevé,attaque en cours,Terminé,7/21/2021,Charlie
+74,credit card information,Moyen,attaque en cours,Terminé,11/17/2020,Charlie
+75,confidential documents,Très élevé,tentative d'accès non autorisée,En attente,2/8/2021,David
+76,medical history,Moyen,attaque en cours,En cours,3/6/2020,Bob
+77,confidential documents,Faible,intrusion détectée,Terminé,7/24/2019,David
+78,confidential documents,Moyen,intrusion détectée,Terminé,4/24/2020,David
+79,financial records,Faible,vulnérabilité identifiée,Terminé,7/29/2019,David
+80,financial records,Moyen,attaque en cours,En cours,5/22/2020,Charlie
+81,social security numbers,Faible,tentative d'accès non autorisée,En cours,8/3/2020,Bob
+82,confidential documents,Moyen,intrusion détectée,En attente,9/12/2019,Eve
+83,confidential documents,Faible,vulnérabilité identifiée,En attente,6/25/2021,Eve
+84,medical history,Faible,vulnérabilité identifiée,En attente,7/17/2019,Eve
+85,personal emails,Faible,vulnérabilité identifiée,En attente,10/17/2019,David
+86,personal emails,Moyen,tentative d'accès non autorisée,En cours,1/21/2019,Eve
+87,personal messages,élevé,tentative d'accès non autorisée,En cours,2/19/2020,Alice
+88,bank account details,Faible,intrusion détectée,En cours,12/22/2021,Bob
+89,passwords,Faible,vulnérabilité identifiée,En cours,9/26/2020,Charlie
+90,social security numbers,élevé,intrusion détectée,En cours,9/15/2019,Alice
+91,credit card information,élevé,vulnérabilité identifiée,En attente,8/16/2019,David
+92,financial records,élevé,tentative d'accès non autorisée,Annulé,10/8/2019,Eve
+93,medical history,Très élevé,intrusion détectée,En cours,3/11/2019,Eve
+94,personal emails,Moyen,intrusion détectée,En cours,5/30/2019,Eve
+95,private photos,élevé,vulnérabilité identifiée,Annulé,3/11/2021,Charlie
+96,financial records,Moyen,tentative d'accès non autorisée,En cours,4/20/2021,Eve
+97,medical history,Moyen,attaque en cours,Terminé,2/11/2021,Bob
+98,private photos,Très élevé,intrusion détectée,Annulé,10/28/2021,Eve
+99,social security numbers,élevé,vulnérabilité identifiée,Terminé,12/16/2019,Eve
+100,passwords,Moyen,intrusion détectée,En cours,7/10/2020,David
+101,private photos,Faible,vulnérabilité identifiée,Terminé,5/11/2020,Alice
+102,financial records,élevé,vulnérabilité identifiée,En attente,6/2/2019,David
+103,social security numbers,Faible,intrusion détectée,En cours,7/17/2020,David
+104,credit card information,Très élevé,vulnérabilité identifiée,En cours,10/2/2021,Alice
+105,social security numbers,Faible,attaque en cours,En cours,3/27/2019,Alice
+106,credit card information,élevé,attaque en cours,En cours,12/6/2019,Alice
+107,private photos,Faible,attaque en cours,Annulé,8/16/2019,David
+108,passwords,Faible,intrusion détectée,Annulé,11/3/2019,Eve
+109,social security numbers,Moyen,tentative d'accès non autorisée,Annulé,1/12/2019,Eve
+110,medical history,Très élevé,intrusion détectée,Annulé,12/28/2020,Eve
+111,bank account details,Très élevé,intrusion détectée,En cours,2/22/2019,Charlie
+112,personal messages,Faible,intrusion détectée,Annulé,8/11/2020,David
+113,bank account details,Faible,tentative d'accès non autorisée,En attente,7/14/2021,Bob
+114,bank account details,Faible,tentative d'accès non autorisée,Terminé,2/28/2019,Eve
+115,personal messages,Très élevé,intrusion détectée,En attente,5/28/2021,Charlie
+116,private photos,Moyen,vulnérabilité identifiée,Annulé,3/18/2020,Alice
+117,social security numbers,élevé,attaque en cours,En cours,12/2/2021,Eve
+118,private photos,élevé,intrusion détectée,En attente,12/29/2019,David
+119,personal emails,Très élevé,vulnérabilité identifiée,En cours,3/31/2021,David
+120,private photos,Faible,vulnérabilité identifiée,En cours,12/17/2019,Bob
+121,credit card information,Faible,attaque en cours,En attente,1/21/2021,Alice
+122,social security numbers,Moyen,intrusion détectée,En attente,8/5/2020,Charlie
+123,bank account details,Moyen,attaque en cours,Annulé,5/26/2021,David
+124,personal emails,Faible,tentative d'accès non autorisée,En cours,6/6/2021,Charlie
+125,personal emails,élevé,intrusion détectée,Annulé,11/25/2020,Charlie
+126,passwords,Moyen,intrusion détectée,En attente,12/25/2019,Bob
+127,social security numbers,élevé,intrusion détectée,En cours,2/22/2021,Bob
+128,confidential documents,Très élevé,intrusion détectée,Terminé,9/17/2019,Charlie
+129,social security numbers,Moyen,vulnérabilité identifiée,En cours,7/30/2019,David
+130,medical history,Très élevé,intrusion détectée,Terminé,7/8/2020,David
+131,bank account details,Très élevé,tentative d'accès non autorisée,En attente,5/19/2021,Charlie
+132,confidential documents,élevé,intrusion détectée,En cours,4/13/2020,David
+133,confidential documents,Faible,intrusion détectée,Terminé,10/30/2020,Bob
+134,personal messages,Très élevé,tentative d'accès non autorisée,En cours,12/17/2019,David
+135,passwords,Très élevé,vulnérabilité identifiée,En attente,6/24/2020,Alice
+136,personal messages,Moyen,vulnérabilité identifiée,En attente,6/11/2020,Eve
+137,passwords,Très élevé,vulnérabilité identifiée,Terminé,7/29/2021,Charlie
+138,credit card information,Faible,intrusion détectée,En attente,1/7/2019,David
+139,social security numbers,élevé,vulnérabilité identifiée,En attente,4/2/2021,Bob
+140,financial records,Moyen,tentative d'accès non autorisée,En attente,1/21/2019,Charlie
+141,bank account details,Très élevé,intrusion détectée,En cours,8/16/2020,Charlie
+142,financial records,Moyen,vulnérabilité identifiée,Terminé,5/30/2021,Eve
+143,private photos,Moyen,intrusion détectée,Terminé,12/5/2019,Charlie
+144,private photos,Faible,intrusion détectée,En attente,5/26/2020,Bob
+145,financial records,Moyen,intrusion détectée,Annulé,6/27/2020,David
+146,personal emails,Moyen,tentative d'accès non autorisée,En cours,1/25/2020,Bob
+147,medical history,élevé,attaque en cours,Terminé,11/30/2020,Eve
+148,passwords,Faible,attaque en cours,Terminé,12/29/2021,Charlie
+149,credit card information,Très élevé,tentative d'accès non autorisée,Annulé,8/16/2021,Alice
+150,personal messages,Moyen,vulnérabilité identifiée,Terminé,10/22/2020,David
+151,credit card information,élevé,attaque en cours,Annulé,1/15/2019,Bob
+152,private photos,Très élevé,intrusion détectée,En cours,7/22/2019,Charlie
+153,passwords,élevé,tentative d'accès non autorisée,Annulé,2/11/2020,Bob
+154,bank account details,Faible,attaque en cours,En cours,6/8/2020,Alice
+155,bank account details,Faible,vulnérabilité identifiée,Annulé,2/12/2020,Eve
+156,personal emails,Moyen,intrusion détectée,Terminé,5/22/2021,Bob
+157,personal emails,Moyen,attaque en cours,En attente,2/27/2020,Charlie
+158,passwords,Très élevé,vulnérabilité identifiée,Annulé,10/31/2020,Alice
+159,passwords,Faible,tentative d'accès non autorisée,Terminé,9/8/2021,Bob
+160,bank account details,Moyen,vulnérabilité identifiée,Annulé,2/11/2021,David
+161,credit card information,élevé,intrusion détectée,En attente,2/14/2019,Charlie
+162,medical history,Moyen,vulnérabilité identifiée,Terminé,12/4/2019,Charlie
+163,personal emails,Très élevé,attaque en cours,Annulé,2/27/2020,Alice
+164,passwords,élevé,attaque en cours,En cours,8/11/2020,David
+165,personal emails,élevé,attaque en cours,Terminé,8/20/2021,Eve
+166,social security numbers,élevé,vulnérabilité identifiée,Annulé,4/13/2019,Eve
+167,financial records,Moyen,vulnérabilité identifiée,Annulé,2/3/2021,Charlie
+168,personal emails,Très élevé,attaque en cours,En cours,11/5/2021,Alice
+169,medical history,élevé,attaque en cours,Annulé,10/24/2021,Alice
+170,medical history,élevé,attaque en cours,Annulé,3/31/2020,Bob
+171,bank account details,Moyen,attaque en cours,En attente,6/6/2021,Eve
+172,financial records,élevé,vulnérabilité identifiée,Terminé,11/20/2021,Charlie
+173,personal messages,Moyen,vulnérabilité identifiée,En attente,7/18/2021,Charlie
+174,personal messages,Faible,attaque en cours,Annulé,3/8/2020,David
+175,private photos,élevé,intrusion détectée,En cours,2/9/2021,Eve
+176,personal emails,Faible,tentative d'accès non autorisée,Annulé,7/2/2021,David
+177,passwords,Faible,intrusion détectée,Terminé,6/12/2020,Alice
+178,passwords,Faible,intrusion détectée,En attente,10/13/2019,Eve
+179,medical history,élevé,intrusion détectée,Terminé,12/2/2021,Alice
+180,confidential documents,Moyen,attaque en cours,En cours,2/2/2020,Bob
+181,passwords,Faible,intrusion détectée,Terminé,9/22/2021,David
+182,bank account details,Moyen,intrusion détectée,En cours,2/19/2019,Alice
+183,bank account details,Moyen,vulnérabilité identifiée,En cours,9/27/2019,Charlie
+184,social security numbers,Moyen,intrusion détectée,Terminé,3/26/2021,Eve
+185,bank account details,Faible,vulnérabilité identifiée,En cours,11/2/2020,David
+186,personal messages,Moyen,vulnérabilité identifiée,Annulé,12/15/2021,Alice
+187,confidential documents,Moyen,attaque en cours,En cours,11/13/2021,Charlie
+188,passwords,Très élevé,vulnérabilité identifiée,En cours,1/30/2019,Eve
+189,medical history,Très élevé,intrusion détectée,Annulé,7/21/2020,Bob
+190,credit card information,Très élevé,intrusion détectée,En cours,1/25/2019,David
+191,financial records,élevé,tentative d'accès non autorisée,En cours,5/4/2020,Charlie
+192,bank account details,Moyen,tentative d'accès non autorisée,Annulé,11/25/2019,Charlie
+193,confidential documents,élevé,attaque en cours,Annulé,3/18/2020,Eve
+194,financial records,Moyen,intrusion détectée,Annulé,5/7/2021,Bob
+195,financial records,élevé,attaque en cours,Annulé,4/25/2020,Bob
+196,confidential documents,Moyen,vulnérabilité identifiée,En attente,11/12/2021,Alice
+197,credit card information,Très élevé,vulnérabilité identifiée,Terminé,10/8/2021,Eve
+198,personal emails,Moyen,vulnérabilité identifiée,En cours,9/3/2020,Charlie
+199,social security numbers,élevé,attaque en cours,Annulé,7/19/2019,Eve
+200,personal messages,élevé,tentative d'accès non autorisée,En cours,9/21/2020,Alice
+201,personal messages,Moyen,attaque en cours,Annulé,12/24/2019,Charlie
+202,financial records,Faible,vulnérabilité identifiée,En attente,12/10/2021,David
+203,confidential documents,Faible,vulnérabilité identifiée,En attente,10/16/2021,David
+204,financial records,Moyen,tentative d'accès non autorisée,En attente,4/13/2021,David
+205,private photos,Faible,vulnérabilité identifiée,Terminé,2/12/2020,Charlie
+206,personal messages,Très élevé,attaque en cours,Annulé,3/7/2021,Alice
+207,private photos,Moyen,intrusion détectée,En cours,8/13/2021,Bob
+208,personal messages,Faible,attaque en cours,En cours,9/18/2021,Charlie
+209,credit card information,Très élevé,intrusion détectée,En cours,4/3/2019,Alice
+210,financial records,Moyen,attaque en cours,En cours,3/8/2019,David
+211,financial records,élevé,intrusion détectée,En attente,11/5/2020,Eve
+212,medical history,élevé,intrusion détectée,Annulé,12/14/2021,Bob
+213,passwords,Faible,tentative d'accès non autorisée,En attente,2/25/2020,David
+214,personal emails,élevé,intrusion détectée,Terminé,12/26/2021,Eve
+215,private photos,Faible,vulnérabilité identifiée,En attente,5/20/2021,Charlie
+216,financial records,Moyen,intrusion détectée,Terminé,11/10/2020,Alice
+217,social security numbers,Moyen,intrusion détectée,Terminé,12/24/2020,Charlie
+218,private photos,Faible,vulnérabilité identifiée,En attente,9/25/2019,Eve
+219,personal messages,Faible,vulnérabilité identifiée,En cours,1/20/2020,Bob
+220,credit card information,Très élevé,intrusion détectée,Annulé,9/2/2021,David
+221,personal messages,Moyen,attaque en cours,Terminé,6/10/2020,David
+222,confidential documents,Moyen,vulnérabilité identifiée,Terminé,2/25/2020,Charlie
+223,private photos,Moyen,attaque en cours,Terminé,8/18/2020,Eve
+224,personal messages,élevé,intrusion détectée,En cours,9/11/2019,David
+225,private photos,élevé,tentative d'accès non autorisée,Annulé,8/4/2021,David
+226,medical history,Très élevé,attaque en cours,Terminé,12/11/2020,Bob
+227,social security numbers,Très élevé,vulnérabilité identifiée,En cours,6/3/2019,Bob
+228,personal messages,Faible,vulnérabilité identifiée,Annulé,11/8/2021,Charlie
+229,confidential documents,élevé,attaque en cours,En cours,3/29/2021,Eve
+230,personal emails,Faible,tentative d'accès non autorisée,Terminé,4/16/2021,Eve
+231,personal messages,Moyen,attaque en cours,En cours,4/12/2019,David
+232,credit card information,Moyen,vulnérabilité identifiée,Terminé,9/27/2019,David
+233,confidential documents,Très élevé,intrusion détectée,En cours,11/7/2020,Eve
+234,confidential documents,élevé,attaque en cours,Terminé,11/21/2021,Bob
+235,passwords,Très élevé,tentative d'accès non autorisée,En attente,1/27/2020,Bob
+236,passwords,Moyen,intrusion détectée,Annulé,5/27/2019,Bob
+237,financial records,Faible,intrusion détectée,En cours,6/14/2021,Alice
+238,passwords,Faible,tentative d'accès non autorisée,En attente,5/26/2019,Alice
+239,medical history,Moyen,attaque en cours,Terminé,5/6/2021,Charlie
+240,financial records,Très élevé,attaque en cours,En cours,2/21/2019,Eve
+241,medical history,élevé,attaque en cours,Terminé,5/15/2021,Bob
+242,credit card information,Très élevé,tentative d'accès non autorisée,Annulé,8/15/2019,Alice
+243,medical history,élevé,intrusion détectée,En cours,6/21/2021,Eve
+244,personal messages,Très élevé,attaque en cours,Annulé,2/8/2021,Eve
+245,personal messages,élevé,intrusion détectée,En cours,8/19/2021,Bob
+246,bank account details,Moyen,attaque en cours,Annulé,7/14/2019,Charlie
+247,private photos,Très élevé,vulnérabilité identifiée,En attente,10/6/2021,Eve
+248,financial records,élevé,attaque en cours,En cours,6/16/2019,David
+249,financial records,Très élevé,tentative d'accès non autorisée,En attente,9/27/2020,Alice
+250,financial records,élevé,intrusion détectée,Annulé,4/13/2019,David
+251,confidential documents,Faible,intrusion détectée,Annulé,1/18/2020,Alice
+252,private photos,Moyen,intrusion détectée,Terminé,4/13/2020,Bob
+253,bank account details,Très élevé,tentative d'accès non autorisée,Annulé,12/10/2020,David
+254,confidential documents,Faible,attaque en cours,Annulé,1/15/2019,Eve
+255,bank account details,Moyen,attaque en cours,En cours,6/15/2021,Alice
+256,credit card information,Faible,intrusion détectée,Terminé,1/26/2020,David
+257,financial records,Faible,attaque en cours,En attente,9/30/2021,David
+258,personal messages,Faible,vulnérabilité identifiée,En attente,10/14/2021,Alice
+259,personal emails,Très élevé,intrusion détectée,Annulé,3/26/2021,Alice
+260,medical history,Moyen,tentative d'accès non autorisée,Annulé,8/6/2019,Eve
+261,passwords,Faible,intrusion détectée,En cours,4/28/2021,Charlie
+262,credit card information,Moyen,vulnérabilité identifiée,Terminé,4/19/2020,David
+263,financial records,Très élevé,vulnérabilité identifiée,En attente,12/13/2019,Eve
+264,private photos,Moyen,intrusion détectée,En cours,12/2/2020,David
+265,personal messages,Faible,vulnérabilité identifiée,Annulé,4/7/2020,David
+266,personal emails,Moyen,attaque en cours,En attente,11/21/2021,Bob
+267,passwords,élevé,intrusion détectée,En cours,2/19/2021,Charlie
+268,financial records,Moyen,intrusion détectée,En cours,11/18/2020,Eve
+269,credit card information,élevé,attaque en cours,En attente,8/13/2021,Alice
+270,bank account details,Moyen,vulnérabilité identifiée,En cours,5/26/2021,David
+271,social security numbers,Faible,attaque en cours,En cours,3/23/2020,Alice
+272,medical history,Faible,intrusion détectée,En cours,7/12/2021,Bob
+273,bank account details,élevé,vulnérabilité identifiée,Terminé,6/14/2020,Alice
+274,passwords,Faible,intrusion détectée,En cours,12/19/2019,Charlie
+275,financial records,Très élevé,attaque en cours,En cours,11/21/2020,Alice
+276,social security numbers,élevé,vulnérabilité identifiée,Terminé,6/4/2021,Charlie
+277,personal emails,Faible,intrusion détectée,Annulé,9/1/2020,Charlie
+278,medical history,Moyen,vulnérabilité identifiée,Annulé,11/12/2020,Charlie
+279,private photos,Moyen,tentative d'accès non autorisée,En cours,9/15/2020,Charlie
+280,personal emails,Moyen,attaque en cours,En attente,8/10/2021,Charlie
+281,passwords,Très élevé,vulnérabilité identifiée,En attente,11/18/2021,Charlie
+282,personal emails,Très élevé,vulnérabilité identifiée,En cours,2/28/2020,Bob
+283,bank account details,Très élevé,vulnérabilité identifiée,En cours,4/12/2019,David
+284,financial records,élevé,vulnérabilité identifiée,Terminé,8/4/2019,Alice
+285,personal messages,Moyen,tentative d'accès non autorisée,Annulé,3/1/2019,Eve
+286,personal messages,Faible,intrusion détectée,En cours,5/23/2020,Bob
+287,credit card information,Moyen,intrusion détectée,Terminé,4/19/2021,Bob
+288,personal emails,Moyen,tentative d'accès non autorisée,En attente,12/3/2020,Charlie
+289,passwords,Faible,attaque en cours,Annulé,8/11/2021,Alice
+290,passwords,Moyen,tentative d'accès non autorisée,Annulé,8/9/2020,Charlie
+291,social security numbers,Très élevé,attaque en cours,En attente,10/15/2020,Charlie
+292,passwords,Moyen,attaque en cours,Annulé,3/23/2020,Eve
+293,confidential documents,Faible,attaque en cours,Annulé,8/6/2019,Charlie
+294,bank account details,Très élevé,intrusion détectée,En cours,12/15/2021,Alice
+295,private photos,Moyen,attaque en cours,Terminé,12/20/2021,Bob
+296,social security numbers,Moyen,attaque en cours,En cours,6/28/2019,Eve
+297,social security numbers,élevé,tentative d'accès non autorisée,Terminé,1/6/2020,David
+298,personal emails,élevé,attaque en cours,En cours,2/4/2021,Alice
+299,personal emails,Moyen,attaque en cours,Terminé,12/19/2021,Eve
+300,bank account details,Moyen,tentative d'accès non autorisée,En attente,12/4/2019,Eve
+301,financial records,Faible,vulnérabilité identifiée,Terminé,1/21/2019,Charlie
+302,passwords,Moyen,attaque en cours,Annulé,3/7/2021,David
+303,credit card information,Faible,vulnérabilité identifiée,Annulé,1/16/2021,Bob
+304,medical history,Faible,intrusion détectée,En attente,10/16/2021,Bob
+305,credit card information,élevé,tentative d'accès non autorisée,En cours,10/16/2019,Bob
+306,passwords,Très élevé,intrusion détectée,En cours,11/30/2020,David
+307,credit card information,Moyen,attaque en cours,En cours,8/25/2021,Eve
+308,personal messages,Moyen,vulnérabilité identifiée,Terminé,10/8/2020,Eve
+309,personal messages,Faible,attaque en cours,En cours,9/14/2020,Alice
+310,confidential documents,Très élevé,vulnérabilité identifiée,En cours,6/11/2019,Charlie
+311,passwords,Très élevé,vulnérabilité identifiée,Annulé,8/22/2020,Eve
+312,bank account details,élevé,attaque en cours,Annulé,3/25/2021,Bob
+313,passwords,Moyen,tentative d'accès non autorisée,En attente,9/13/2019,Alice
+314,financial records,élevé,intrusion détectée,Terminé,12/16/2019,Charlie
+315,personal emails,élevé,intrusion détectée,En attente,2/15/2019,Eve
+316,personal messages,Moyen,attaque en cours,Terminé,10/11/2019,Charlie
+317,social security numbers,Très élevé,intrusion détectée,Annulé,7/12/2019,David
+318,social security numbers,Faible,intrusion détectée,En attente,9/20/2019,David
+319,social security numbers,élevé,attaque en cours,En attente,9/23/2021,Alice
+320,credit card information,Très élevé,tentative d'accès non autorisée,Terminé,3/18/2019,Charlie
+321,personal emails,Moyen,attaque en cours,Annulé,8/11/2019,Alice
+322,credit card information,Faible,attaque en cours,Terminé,6/11/2021,Charlie
+323,confidential documents,élevé,tentative d'accès non autorisée,En attente,9/10/2019,Eve
+324,private photos,Moyen,tentative d'accès non autorisée,En attente,7/20/2019,David
+325,medical history,Moyen,tentative d'accès non autorisée,Terminé,11/27/2019,Bob
+326,financial records,Moyen,tentative d'accès non autorisée,Terminé,11/5/2021,David
+327,personal emails,Moyen,vulnérabilité identifiée,En attente,2/10/2021,Bob
+328,personal messages,Faible,attaque en cours,En cours,11/6/2020,Bob
+329,credit card information,Faible,tentative d'accès non autorisée,Annulé,7/19/2020,Eve
+330,credit card information,Très élevé,vulnérabilité identifiée,Annulé,11/1/2020,Alice
+331,confidential documents,Faible,attaque en cours,Annulé,6/29/2021,Alice
+332,confidential documents,élevé,vulnérabilité identifiée,En attente,9/7/2019,David
+333,credit card information,élevé,tentative d'accès non autorisée,Terminé,7/16/2021,David
+334,medical history,élevé,vulnérabilité identifiée,Terminé,6/24/2020,Bob
+335,medical history,élevé,intrusion détectée,Terminé,3/2/2021,David
+336,personal emails,élevé,vulnérabilité identifiée,En cours,1/15/2021,David
+337,private photos,Moyen,intrusion détectée,En attente,10/3/2020,David
+338,bank account details,élevé,intrusion détectée,Annulé,12/26/2019,Alice
+339,credit card information,Faible,intrusion détectée,En cours,3/19/2020,Eve
+340,bank account details,élevé,attaque en cours,En cours,10/14/2019,David
+341,medical history,Très élevé,tentative d'accès non autorisée,Terminé,10/26/2021,David
+342,confidential documents,Faible,intrusion détectée,Annulé,1/14/2020,David
+343,passwords,Faible,vulnérabilité identifiée,Terminé,11/28/2020,Charlie
+344,personal messages,Faible,vulnérabilité identifiée,Terminé,12/19/2019,Charlie
+345,personal messages,Très élevé,tentative d'accès non autorisée,Terminé,1/11/2021,Eve
+346,credit card information,élevé,intrusion détectée,En attente,1/4/2019,Eve
+347,medical history,élevé,attaque en cours,Annulé,2/11/2020,Charlie
+348,private photos,élevé,intrusion détectée,Terminé,8/19/2021,Bob
+349,confidential documents,élevé,vulnérabilité identifiée,En attente,1/16/2020,Bob
+350,personal messages,Très élevé,vulnérabilité identifiée,En cours,7/10/2020,Charlie
+351,medical history,élevé,intrusion détectée,En attente,11/16/2020,Bob
+352,financial records,élevé,tentative d'accès non autorisée,En attente,7/11/2019,Charlie
+353,financial records,élevé,intrusion détectée,En cours,4/14/2020,Charlie
+354,confidential documents,Faible,attaque en cours,En attente,5/20/2019,Charlie
+355,financial records,Très élevé,vulnérabilité identifiée,Terminé,12/11/2020,Bob
+356,credit card information,Moyen,tentative d'accès non autorisée,En attente,8/9/2019,David
+357,social security numbers,Très élevé,intrusion détectée,En cours,2/12/2019,Bob
+358,medical history,Moyen,tentative d'accès non autorisée,Terminé,1/11/2021,Eve
+359,passwords,Moyen,attaque en cours,Terminé,8/20/2021,David
+360,medical history,Faible,attaque en cours,En cours,10/17/2021,Charlie
+361,confidential documents,Très élevé,intrusion détectée,En cours,3/2/2021,Eve
+362,confidential documents,élevé,tentative d'accès non autorisée,En attente,11/16/2020,Bob
+363,private photos,Moyen,vulnérabilité identifiée,Terminé,1/21/2021,Eve
+364,personal messages,Faible,attaque en cours,En cours,11/23/2020,Eve
+365,private photos,Moyen,vulnérabilité identifiée,Terminé,8/1/2020,Eve
+366,personal messages,Faible,attaque en cours,En attente,1/9/2019,Charlie
+367,personal emails,élevé,vulnérabilité identifiée,En cours,8/28/2021,David
+368,passwords,Moyen,vulnérabilité identifiée,Terminé,3/31/2020,Eve
+369,bank account details,Moyen,tentative d'accès non autorisée,En cours,8/2/2019,Bob
+370,social security numbers,Très élevé,attaque en cours,Terminé,6/10/2021,Charlie
+371,private photos,élevé,tentative d'accès non autorisée,En cours,9/30/2021,Bob
+372,financial records,Moyen,vulnérabilité identifiée,En cours,11/23/2019,Eve
+373,bank account details,Faible,tentative d'accès non autorisée,En cours,2/2/2021,Eve
+374,passwords,Très élevé,tentative d'accès non autorisée,En cours,10/13/2020,Bob
+375,confidential documents,élevé,intrusion détectée,Annulé,3/7/2019,David
+376,financial records,Moyen,intrusion détectée,Annulé,7/26/2020,Eve
+377,credit card information,Faible,tentative d'accès non autorisée,En attente,4/8/2019,Eve
+378,confidential documents,Très élevé,tentative d'accès non autorisée,En cours,3/14/2020,David
+379,personal messages,élevé,vulnérabilité identifiée,Terminé,8/2/2021,Charlie
+380,private photos,Faible,vulnérabilité identifiée,Annulé,3/19/2020,Eve
+381,confidential documents,élevé,tentative d'accès non autorisée,Annulé,12/7/2019,David
+382,private photos,Très élevé,attaque en cours,En attente,6/24/2019,David
+383,personal messages,Moyen,intrusion détectée,En cours,2/18/2020,Bob
+384,private photos,élevé,intrusion détectée,Terminé,6/14/2019,Charlie
+385,personal messages,élevé,attaque en cours,Terminé,1/23/2021,David
+386,medical history,Très élevé,tentative d'accès non autorisée,En cours,5/10/2020,Alice
+387,financial records,Moyen,attaque en cours,En attente,11/28/2020,David
+388,personal emails,Faible,vulnérabilité identifiée,En cours,9/18/2021,Eve
+389,personal emails,élevé,vulnérabilité identifiée,En attente,8/26/2019,Bob
+390,medical history,Faible,vulnérabilité identifiée,En cours,4/4/2019,Charlie
+391,confidential documents,Moyen,intrusion détectée,Annulé,6/14/2020,Alice
+392,financial records,élevé,intrusion détectée,Terminé,5/22/2021,Bob
+393,medical history,Faible,tentative d'accès non autorisée,Terminé,5/14/2021,Alice
+394,credit card information,élevé,intrusion détectée,En attente,5/5/2019,Eve
+395,financial records,Très élevé,intrusion détectée,En cours,2/3/2020,Bob
+396,bank account details,élevé,attaque en cours,En cours,9/4/2020,Eve
+397,credit card information,Très élevé,vulnérabilité identifiée,Annulé,4/22/2020,Charlie
+398,private photos,Moyen,intrusion détectée,En cours,3/23/2021,David
+399,credit card information,Très élevé,tentative d'accès non autorisée,Terminé,3/30/2019,Alice
+400,credit card information,Moyen,vulnérabilité identifiée,Annulé,4/23/2019,Eve
+401,private photos,Faible,intrusion détectée,En attente,12/10/2019,Alice
+402,personal messages,Très élevé,attaque en cours,En attente,10/29/2021,Eve
+403,bank account details,Moyen,attaque en cours,Annulé,1/4/2020,Alice
+404,private photos,Faible,attaque en cours,En cours,7/24/2019,Eve
+405,credit card information,Faible,vulnérabilité identifiée,Terminé,8/19/2021,Eve
+406,financial records,Très élevé,tentative d'accès non autorisée,En attente,11/6/2021,Bob
+407,bank account details,Moyen,tentative d'accès non autorisée,Annulé,5/18/2020,Eve
+408,credit card information,élevé,tentative d'accès non autorisée,Annulé,6/2/2021,Eve
+409,personal messages,Faible,vulnérabilité identifiée,Terminé,5/14/2019,Bob
+410,private photos,Faible,vulnérabilité identifiée,Annulé,5/1/2021,Bob
+411,private photos,Faible,vulnérabilité identifiée,En cours,8/23/2020,Alice
+412,private photos,Faible,intrusion détectée,En cours,6/17/2021,Eve
+413,passwords,élevé,attaque en cours,Annulé,12/20/2020,Bob
+414,passwords,élevé,attaque en cours,Terminé,1/13/2020,Charlie
+415,medical history,Faible,intrusion détectée,Annulé,3/2/2021,Bob
+416,medical history,élevé,attaque en cours,Annulé,9/10/2021,Eve
+417,private photos,élevé,tentative d'accès non autorisée,En cours,1/6/2020,Eve
+418,private photos,Faible,intrusion détectée,Annulé,11/17/2021,Bob
+419,social security numbers,élevé,tentative d'accès non autorisée,En cours,12/2/2021,Eve
+420,private photos,Faible,attaque en cours,En attente,1/12/2021,Charlie
+421,bank account details,élevé,attaque en cours,En attente,3/28/2021,David
+422,financial records,Très élevé,intrusion détectée,En attente,7/7/2020,David
+423,confidential documents,Faible,tentative d'accès non autorisée,Terminé,7/15/2021,David
+424,passwords,Faible,intrusion détectée,En cours,8/1/2020,Bob
+425,bank account details,Moyen,intrusion détectée,En cours,9/11/2021,David
+426,confidential documents,Faible,intrusion détectée,Annulé,1/6/2021,David
+427,personal emails,Très élevé,vulnérabilité identifiée,Annulé,10/6/2020,David
+428,confidential documents,Moyen,tentative d'accès non autorisée,Terminé,7/30/2019,Eve
+429,financial records,élevé,vulnérabilité identifiée,En attente,6/20/2020,Eve
+430,personal emails,élevé,intrusion détectée,En attente,7/30/2020,Bob
+431,credit card information,Moyen,intrusion détectée,Terminé,11/18/2020,Alice
+432,credit card information,Faible,tentative d'accès non autorisée,En cours,8/19/2020,David
+433,bank account details,Faible,attaque en cours,Annulé,2/26/2021,Eve
+434,confidential documents,élevé,vulnérabilité identifiée,En cours,10/17/2021,David
+435,passwords,Faible,vulnérabilité identifiée,En attente,10/12/2019,Eve
+436,confidential documents,élevé,attaque en cours,Annulé,2/8/2020,David
+437,confidential documents,élevé,attaque en cours,Annulé,10/28/2020,Charlie
+438,bank account details,Faible,intrusion détectée,Annulé,6/3/2020,Alice
+439,private photos,Très élevé,attaque en cours,Terminé,2/12/2020,Bob
+440,personal emails,Faible,attaque en cours,Annulé,3/14/2020,Charlie
+441,confidential documents,élevé,intrusion détectée,Annulé,7/28/2019,Bob
+442,personal emails,Très élevé,attaque en cours,En attente,2/9/2021,Bob
+443,social security numbers,Moyen,tentative d'accès non autorisée,En attente,5/29/2021,Charlie
+444,confidential documents,élevé,attaque en cours,Annulé,1/27/2021,Alice
+445,bank account details,Très élevé,intrusion détectée,Annulé,8/14/2020,David
+446,financial records,Très élevé,tentative d'accès non autorisée,Annulé,9/23/2019,David
+447,credit card information,Faible,tentative d'accès non autorisée,En cours,10/1/2021,Bob
+448,credit card information,Faible,vulnérabilité identifiée,Terminé,8/24/2021,Charlie
+449,credit card information,Très élevé,tentative d'accès non autorisée,En cours,12/5/2020,Alice
+450,confidential documents,élevé,intrusion détectée,Annulé,8/30/2019,David
+451,personal emails,Faible,intrusion détectée,Annulé,2/28/2019,Alice
+452,personal emails,Moyen,intrusion détectée,Terminé,4/2/2020,David
+453,personal messages,Moyen,tentative d'accès non autorisée,Terminé,6/8/2021,David
+454,personal messages,Très élevé,attaque en cours,Annulé,2/5/2021,Charlie
+455,private photos,Moyen,vulnérabilité identifiée,Terminé,6/8/2021,Bob
+456,financial records,Faible,tentative d'accès non autorisée,Annulé,12/3/2019,Charlie
+457,social security numbers,Moyen,attaque en cours,En attente,6/25/2020,Eve
+458,private photos,Moyen,tentative d'accès non autorisée,Terminé,11/23/2020,Eve
+459,personal messages,Moyen,vulnérabilité identifiée,En cours,11/27/2020,Alice
+460,bank account details,Faible,attaque en cours,Annulé,4/24/2020,Bob
+461,personal messages,élevé,intrusion détectée,Annulé,8/3/2020,Bob
+462,bank account details,Très élevé,intrusion détectée,En attente,10/22/2019,Charlie
+463,social security numbers,Faible,intrusion détectée,En attente,11/10/2021,Bob
+464,credit card information,Très élevé,attaque en cours,En cours,11/28/2020,David
+465,personal emails,élevé,tentative d'accès non autorisée,Annulé,9/2/2020,David
+466,credit card information,Moyen,vulnérabilité identifiée,En cours,10/6/2020,Eve
+467,confidential documents,élevé,vulnérabilité identifiée,Annulé,9/12/2020,David
+468,social security numbers,Moyen,tentative d'accès non autorisée,Terminé,4/8/2020,Eve
+469,medical history,Très élevé,vulnérabilité identifiée,En cours,12/6/2021,Alice
+470,credit card information,Faible,intrusion détectée,En cours,11/24/2020,Bob
+471,confidential documents,Très élevé,vulnérabilité identifiée,Terminé,9/7/2021,Alice
+472,passwords,Très élevé,vulnérabilité identifiée,Terminé,6/20/2019,David
+473,credit card information,Faible,intrusion détectée,En attente,4/26/2021,David
+474,personal messages,Moyen,vulnérabilité identifiée,Terminé,8/29/2021,Charlie
+475,financial records,Moyen,intrusion détectée,Annulé,12/18/2020,Eve
+476,financial records,élevé,vulnérabilité identifiée,En cours,1/12/2019,Eve
+477,bank account details,Très élevé,intrusion détectée,En attente,7/14/2019,Alice
+478,social security numbers,Très élevé,tentative d'accès non autorisée,Terminé,10/25/2021,David
+479,social security numbers,Très élevé,tentative d'accès non autorisée,Annulé,10/20/2021,Charlie
+480,medical history,Très élevé,tentative d'accès non autorisée,En attente,6/9/2020,Alice
+481,bank account details,Faible,intrusion détectée,Annulé,10/6/2020,David
+482,medical history,élevé,intrusion détectée,En cours,8/10/2019,Eve
+483,credit card information,élevé,vulnérabilité identifiée,Annulé,9/5/2021,Eve
+484,social security numbers,élevé,attaque en cours,En cours,3/16/2020,Bob
+485,financial records,Moyen,attaque en cours,En attente,5/25/2021,Eve
+486,confidential documents,Moyen,attaque en cours,En cours,10/22/2019,Alice
+487,social security numbers,élevé,tentative d'accès non autorisée,Annulé,10/7/2019,Bob
+488,social security numbers,Moyen,vulnérabilité identifiée,En attente,8/13/2019,Charlie
+489,credit card information,élevé,intrusion détectée,Annulé,2/13/2020,Charlie
+490,private photos,Très élevé,intrusion détectée,Annulé,3/29/2020,Charlie
+491,medical history,Moyen,tentative d'accès non autorisée,Terminé,12/30/2020,Eve
+492,passwords,Faible,intrusion détectée,Terminé,7/28/2021,Charlie
+493,personal emails,Très élevé,vulnérabilité identifiée,Terminé,10/28/2021,Charlie
+494,personal emails,Faible,intrusion détectée,En cours,1/18/2020,Eve
+495,credit card information,Faible,vulnérabilité identifiée,En attente,4/12/2019,Charlie
+496,personal emails,Très élevé,intrusion détectée,Annulé,1/9/2021,Bob
+497,confidential documents,Faible,attaque en cours,Annulé,3/31/2021,David
+498,financial records,Moyen,intrusion détectée,En attente,3/23/2020,Bob
+499,passwords,Très élevé,tentative d'accès non autorisée,En attente,6/3/2021,Alice
+500,bank account details,Très élevé,attaque en cours,En cours,9/26/2021,David
+501,credit card information,Moyen,attaque en cours,En cours,2/1/2019,Charlie
+502,personal messages,Faible,tentative d'accès non autorisée,En cours,1/6/2020,Bob
+503,passwords,Très élevé,attaque en cours,En attente,10/18/2021,Alice
+504,private photos,Faible,intrusion détectée,Annulé,6/3/2019,Bob
+505,social security numbers,élevé,intrusion détectée,Annulé,8/1/2019,Eve
+506,confidential documents,Faible,vulnérabilité identifiée,En attente,12/9/2020,Charlie
+507,confidential documents,Faible,vulnérabilité identifiée,Annulé,5/2/2020,Alice
+508,personal messages,Faible,tentative d'accès non autorisée,En attente,3/13/2019,Bob
+509,social security numbers,Faible,vulnérabilité identifiée,Terminé,2/23/2019,Alice
+510,bank account details,élevé,attaque en cours,En cours,5/21/2019,David
+511,bank account details,Faible,tentative d'accès non autorisée,En attente,10/4/2019,Eve
+512,credit card information,Très élevé,intrusion détectée,En cours,2/13/2020,David
+513,credit card information,Faible,tentative d'accès non autorisée,Terminé,10/22/2019,Eve
+514,private photos,Faible,vulnérabilité identifiée,Terminé,5/25/2021,Eve
+515,personal messages,Moyen,tentative d'accès non autorisée,En attente,11/14/2021,Charlie
+516,bank account details,Faible,tentative d'accès non autorisée,Annulé,1/2/2020,Eve
+517,passwords,Faible,vulnérabilité identifiée,En attente,1/26/2020,Eve
+518,passwords,Très élevé,intrusion détectée,En cours,11/3/2020,David
+519,private photos,Moyen,intrusion détectée,Annulé,6/28/2019,David
+520,confidential documents,Moyen,intrusion détectée,Terminé,4/30/2020,Eve
+521,bank account details,Faible,vulnérabilité identifiée,Terminé,9/11/2020,David
+522,confidential documents,Très élevé,attaque en cours,Annulé,9/23/2020,David
+523,personal messages,Faible,vulnérabilité identifiée,Terminé,1/27/2021,Alice
+524,medical history,élevé,tentative d'accès non autorisée,En cours,8/20/2019,David
+525,financial records,Faible,intrusion détectée,Terminé,10/17/2020,David
+526,medical history,Très élevé,attaque en cours,En cours,12/19/2020,Eve
+527,bank account details,Moyen,tentative d'accès non autorisée,Annulé,12/16/2019,Bob
+528,credit card information,Faible,tentative d'accès non autorisée,Annulé,12/1/2021,Eve
+529,private photos,Très élevé,tentative d'accès non autorisée,En cours,4/21/2021,Eve
+530,financial records,Faible,tentative d'accès non autorisée,En cours,1/15/2021,Charlie
+531,personal emails,Moyen,tentative d'accès non autorisée,Terminé,11/22/2019,Alice
+532,credit card information,Moyen,attaque en cours,En attente,12/11/2021,Alice
+533,credit card information,Très élevé,vulnérabilité identifiée,En cours,11/30/2020,Eve
+534,confidential documents,Faible,intrusion détectée,En cours,10/10/2019,Charlie
+535,social security numbers,élevé,vulnérabilité identifiée,Terminé,12/17/2019,Alice
+536,credit card information,élevé,attaque en cours,Annulé,2/14/2019,Alice
+537,credit card information,Moyen,attaque en cours,En attente,5/5/2021,David
+538,social security numbers,Faible,intrusion détectée,En attente,12/28/2020,Alice
+539,personal emails,Très élevé,attaque en cours,Annulé,3/16/2020,Bob
+540,confidential documents,Moyen,vulnérabilité identifiée,Annulé,1/23/2021,Charlie
+541,credit card information,Très élevé,vulnérabilité identifiée,Terminé,1/6/2019,David
+542,passwords,Très élevé,attaque en cours,En cours,12/18/2021,Charlie
+543,bank account details,Moyen,attaque en cours,Annulé,7/18/2020,Alice
+544,personal messages,Faible,vulnérabilité identifiée,Terminé,9/7/2021,David
+545,financial records,Moyen,attaque en cours,Terminé,4/11/2020,Alice
+546,personal emails,élevé,attaque en cours,En attente,10/29/2019,Charlie
+547,social security numbers,Faible,tentative d'accès non autorisée,En attente,3/27/2020,Alice
+548,personal emails,Moyen,attaque en cours,Annulé,4/16/2021,Alice
+549,financial records,Faible,attaque en cours,En attente,2/23/2019,David
+550,confidential documents,élevé,intrusion détectée,Terminé,12/30/2020,Eve
+551,passwords,Moyen,vulnérabilité identifiée,Terminé,3/8/2020,Eve
+552,medical history,élevé,intrusion détectée,Annulé,7/3/2020,David
+553,personal emails,Moyen,tentative d'accès non autorisée,En cours,3/9/2021,Bob
+554,confidential documents,élevé,tentative d'accès non autorisée,Annulé,5/15/2020,Alice
+555,credit card information,Moyen,tentative d'accès non autorisée,Annulé,10/2/2021,David
+556,personal emails,Très élevé,vulnérabilité identifiée,Annulé,3/16/2019,Bob
+557,medical history,Faible,tentative d'accès non autorisée,Terminé,4/28/2019,Eve
+558,private photos,Très élevé,tentative d'accès non autorisée,En cours,6/26/2020,Alice
+559,personal messages,élevé,vulnérabilité identifiée,En attente,2/9/2020,David
+560,passwords,Moyen,attaque en cours,En attente,6/24/2019,Bob
+561,social security numbers,Faible,attaque en cours,Terminé,7/31/2021,Charlie
+562,private photos,élevé,vulnérabilité identifiée,En attente,11/19/2019,Charlie
+563,financial records,Moyen,intrusion détectée,Annulé,8/30/2020,David
+564,private photos,Très élevé,attaque en cours,En attente,9/28/2020,Alice
+565,social security numbers,Très élevé,intrusion détectée,Annulé,8/29/2019,Alice
+566,confidential documents,Faible,intrusion détectée,En attente,9/13/2021,Alice
+567,personal messages,Faible,attaque en cours,Annulé,10/12/2020,Charlie
+568,personal emails,Faible,attaque en cours,Annulé,11/11/2021,Bob
+569,credit card information,Faible,attaque en cours,En cours,3/12/2020,Bob
+570,financial records,élevé,tentative d'accès non autorisée,Terminé,7/13/2020,Charlie
+571,confidential documents,élevé,attaque en cours,En cours,5/7/2020,David
+572,financial records,Faible,tentative d'accès non autorisée,Terminé,9/30/2021,David
+573,medical history,Moyen,vulnérabilité identifiée,En attente,8/12/2019,Alice
+574,medical history,élevé,tentative d'accès non autorisée,Terminé,12/9/2019,Alice
+575,personal emails,Très élevé,intrusion détectée,Terminé,2/5/2019,Bob
+576,social security numbers,Moyen,attaque en cours,En attente,2/10/2019,Charlie
+577,personal emails,Faible,tentative d'accès non autorisée,Annulé,6/26/2021,David
+578,financial records,Faible,tentative d'accès non autorisée,En attente,5/13/2020,David
+579,personal emails,Très élevé,vulnérabilité identifiée,Annulé,2/24/2020,David
+580,medical history,élevé,attaque en cours,Terminé,3/17/2021,Eve
+581,personal messages,Moyen,attaque en cours,Terminé,2/7/2019,Charlie
+582,bank account details,Moyen,vulnérabilité identifiée,En attente,5/6/2021,Charlie
+583,personal messages,Très élevé,attaque en cours,Terminé,6/4/2021,Alice
+584,personal messages,élevé,tentative d'accès non autorisée,Annulé,7/10/2020,Charlie
+585,medical history,élevé,vulnérabilité identifiée,Terminé,6/11/2021,Bob
+586,financial records,Moyen,intrusion détectée,En cours,7/24/2021,Bob
+587,financial records,Moyen,tentative d'accès non autorisée,En cours,2/10/2019,Charlie
+588,personal messages,Moyen,tentative d'accès non autorisée,En attente,2/27/2021,Eve
+589,passwords,élevé,vulnérabilité identifiée,Annulé,2/19/2020,David
+590,credit card information,élevé,tentative d'accès non autorisée,Annulé,1/4/2019,Eve
+591,bank account details,Très élevé,vulnérabilité identifiée,En attente,10/28/2021,Bob
+592,confidential documents,élevé,vulnérabilité identifiée,Annulé,7/15/2019,David
+593,passwords,élevé,intrusion détectée,En cours,12/2/2019,David
+594,private photos,Moyen,vulnérabilité identifiée,En attente,6/6/2019,David
+595,personal messages,Faible,vulnérabilité identifiée,Terminé,11/8/2020,Bob
+596,credit card information,Très élevé,attaque en cours,En attente,2/23/2020,Bob
+597,personal messages,Très élevé,vulnérabilité identifiée,En attente,5/16/2021,Bob
+598,bank account details,Moyen,tentative d'accès non autorisée,Annulé,2/2/2019,Alice
+599,confidential documents,Faible,tentative d'accès non autorisée,Annulé,4/28/2021,David
+600,bank account details,Très élevé,tentative d'accès non autorisée,En attente,8/26/2021,Bob
+601,bank account details,élevé,vulnérabilité identifiée,Annulé,10/28/2020,Eve
+602,confidential documents,Moyen,tentative d'accès non autorisée,En attente,8/10/2020,Alice
+603,medical history,Très élevé,tentative d'accès non autorisée,En cours,7/14/2021,Alice
+604,financial records,Moyen,vulnérabilité identifiée,Terminé,10/20/2019,Charlie
+605,confidential documents,Moyen,attaque en cours,Annulé,1/6/2020,Alice
+606,medical history,élevé,attaque en cours,Annulé,6/12/2020,Eve
+607,personal emails,Très élevé,vulnérabilité identifiée,Terminé,4/30/2021,Bob
+608,personal emails,Très élevé,tentative d'accès non autorisée,Terminé,10/8/2019,David
+609,social security numbers,élevé,intrusion détectée,En cours,10/18/2021,David
+610,credit card information,élevé,attaque en cours,Terminé,8/24/2019,Eve
+611,passwords,Moyen,tentative d'accès non autorisée,En cours,6/27/2019,Bob
+612,personal messages,Faible,tentative d'accès non autorisée,Annulé,5/22/2020,David
+613,credit card information,Très élevé,attaque en cours,Terminé,9/12/2020,Bob
+614,financial records,Faible,intrusion détectée,Annulé,10/28/2021,David
+615,medical history,Très élevé,tentative d'accès non autorisée,Annulé,10/31/2020,David
+616,medical history,Très élevé,vulnérabilité identifiée,Annulé,5/29/2020,David
+617,confidential documents,Faible,attaque en cours,Terminé,10/5/2019,Bob
+618,personal messages,Faible,intrusion détectée,En attente,5/8/2020,Eve
+619,medical history,Moyen,attaque en cours,En attente,9/11/2020,Alice
+620,bank account details,Moyen,attaque en cours,Annulé,5/1/2019,Charlie
+621,social security numbers,Faible,attaque en cours,Terminé,1/2/2020,Eve
+622,passwords,élevé,intrusion détectée,En attente,11/13/2019,Bob
+623,credit card information,Très élevé,attaque en cours,En attente,5/24/2019,Charlie
+624,social security numbers,élevé,intrusion détectée,En cours,9/2/2021,Charlie
+625,social security numbers,élevé,attaque en cours,Terminé,8/1/2020,Bob
+626,financial records,Très élevé,intrusion détectée,Terminé,12/21/2021,Eve
+627,financial records,Faible,intrusion détectée,Annulé,3/27/2021,David
+628,passwords,Faible,vulnérabilité identifiée,Annulé,5/27/2021,Alice
+629,financial records,Faible,vulnérabilité identifiée,Annulé,4/28/2020,Charlie
+630,confidential documents,Moyen,attaque en cours,Terminé,9/1/2020,Alice
+631,social security numbers,Très élevé,intrusion détectée,Terminé,12/18/2021,Bob
+632,bank account details,élevé,intrusion détectée,En cours,2/23/2019,Charlie
+633,financial records,Moyen,intrusion détectée,En attente,8/10/2020,Eve
+634,private photos,Moyen,vulnérabilité identifiée,En cours,3/22/2021,Charlie
+635,confidential documents,élevé,vulnérabilité identifiée,En cours,3/29/2020,Bob
+636,personal emails,élevé,tentative d'accès non autorisée,En cours,2/21/2020,Bob
+637,personal emails,Moyen,attaque en cours,En attente,10/18/2021,Charlie
+638,bank account details,Moyen,tentative d'accès non autorisée,Annulé,2/23/2019,Bob
+639,private photos,Moyen,attaque en cours,En cours,5/22/2019,David
+640,personal messages,élevé,tentative d'accès non autorisée,En attente,9/18/2021,David
+641,private photos,Très élevé,tentative d'accès non autorisée,Annulé,1/24/2021,Bob
+642,bank account details,Faible,vulnérabilité identifiée,Terminé,4/28/2021,Eve
+643,personal messages,Faible,intrusion détectée,En attente,1/3/2020,David
+644,personal messages,Très élevé,intrusion détectée,En cours,10/9/2021,Eve
+645,credit card information,Faible,tentative d'accès non autorisée,Annulé,5/24/2021,Charlie
+646,confidential documents,Moyen,tentative d'accès non autorisée,Annulé,4/15/2021,Eve
+647,credit card information,Moyen,vulnérabilité identifiée,En cours,7/9/2019,David
+648,passwords,élevé,intrusion détectée,En cours,4/29/2020,Eve
+649,medical history,élevé,tentative d'accès non autorisée,Terminé,6/5/2021,David
+650,personal emails,Moyen,vulnérabilité identifiée,En attente,12/27/2019,Eve
+651,personal messages,Moyen,vulnérabilité identifiée,Terminé,11/30/2021,Alice
+652,personal messages,Moyen,tentative d'accès non autorisée,Terminé,6/25/2020,Alice
+653,personal emails,élevé,intrusion détectée,Terminé,9/12/2020,Eve
+654,confidential documents,Très élevé,attaque en cours,En attente,1/9/2019,Charlie
+655,passwords,Faible,attaque en cours,Annulé,6/14/2020,Charlie
+656,credit card information,élevé,tentative d'accès non autorisée,En cours,8/4/2019,Charlie
+657,private photos,élevé,tentative d'accès non autorisée,En attente,10/18/2021,Eve
+658,personal emails,Faible,tentative d'accès non autorisée,Annulé,10/26/2019,Alice
+659,passwords,Faible,intrusion détectée,En cours,11/27/2021,Eve
+660,financial records,Faible,tentative d'accès non autorisée,Terminé,11/15/2021,Alice
+661,bank account details,Moyen,vulnérabilité identifiée,En cours,4/16/2021,David
+662,medical history,Moyen,intrusion détectée,Annulé,6/22/2019,David
+663,credit card information,Très élevé,intrusion détectée,En attente,7/11/2020,Eve
+664,confidential documents,élevé,intrusion détectée,Annulé,7/20/2019,Bob
+665,credit card information,élevé,attaque en cours,En attente,7/29/2019,Alice
+666,medical history,Faible,intrusion détectée,Terminé,12/23/2021,Bob
+667,personal messages,Faible,attaque en cours,Terminé,5/15/2021,David
+668,personal emails,Moyen,intrusion détectée,Terminé,12/2/2020,Bob
+669,private photos,Faible,tentative d'accès non autorisée,En attente,11/3/2020,Charlie
+670,personal emails,Faible,vulnérabilité identifiée,Annulé,9/23/2019,David
+671,personal messages,élevé,intrusion détectée,Annulé,9/3/2019,Eve
+672,passwords,Faible,tentative d'accès non autorisée,En attente,5/10/2021,David
+673,personal emails,Très élevé,intrusion détectée,Terminé,10/22/2020,David
+674,personal emails,Moyen,intrusion détectée,En cours,12/7/2020,Charlie
+675,personal messages,élevé,tentative d'accès non autorisée,En attente,9/23/2020,Charlie
+676,passwords,Très élevé,attaque en cours,En cours,11/3/2021,Alice
+677,credit card information,élevé,intrusion détectée,En attente,1/9/2021,Alice
+678,private photos,Très élevé,vulnérabilité identifiée,En attente,6/9/2021,Eve
+679,financial records,Très élevé,tentative d'accès non autorisée,Annulé,6/2/2021,Alice
+680,bank account details,Faible,vulnérabilité identifiée,Terminé,9/20/2019,Alice
+681,passwords,Moyen,tentative d'accès non autorisée,Terminé,5/19/2019,Charlie
+682,confidential documents,Faible,vulnérabilité identifiée,Annulé,8/7/2019,Charlie
+683,social security numbers,Faible,vulnérabilité identifiée,Terminé,10/28/2021,Alice
+684,personal emails,Faible,intrusion détectée,Terminé,6/21/2020,Bob
+685,financial records,Très élevé,intrusion détectée,En attente,2/9/2020,David
+686,social security numbers,Moyen,tentative d'accès non autorisée,En cours,7/26/2021,Bob
+687,personal emails,élevé,intrusion détectée,En attente,7/20/2020,David
+688,passwords,Faible,tentative d'accès non autorisée,Annulé,4/16/2020,Bob
+689,medical history,élevé,intrusion détectée,Terminé,7/23/2021,Eve
+690,credit card information,Faible,attaque en cours,En attente,7/17/2019,David
+691,private photos,Faible,tentative d'accès non autorisée,En attente,5/23/2019,David
+692,financial records,Très élevé,tentative d'accès non autorisée,En attente,4/22/2021,Bob
+693,private photos,Moyen,tentative d'accès non autorisée,En attente,2/21/2020,Bob
+694,private photos,Moyen,vulnérabilité identifiée,En cours,2/4/2021,Charlie
+695,private photos,Moyen,intrusion détectée,Annulé,12/27/2019,Charlie
+696,private photos,Moyen,tentative d'accès non autorisée,En cours,2/10/2019,Alice
+697,personal messages,élevé,tentative d'accès non autorisée,En attente,4/22/2021,Bob
+698,personal emails,Très élevé,intrusion détectée,En attente,12/15/2019,Eve
+699,private photos,Faible,tentative d'accès non autorisée,Terminé,9/18/2019,David
+700,social security numbers,Très élevé,intrusion détectée,En cours,1/4/2020,Charlie
+701,personal messages,Moyen,tentative d'accès non autorisée,Terminé,8/1/2019,Eve
+702,confidential documents,Très élevé,intrusion détectée,En attente,8/3/2019,David
+703,passwords,Faible,attaque en cours,En cours,9/2/2021,Eve
+704,passwords,Très élevé,tentative d'accès non autorisée,Annulé,11/18/2019,David
+705,passwords,Moyen,intrusion détectée,Terminé,8/3/2019,Alice
+706,personal emails,Faible,attaque en cours,En cours,5/22/2020,Bob
+707,confidential documents,Faible,vulnérabilité identifiée,Annulé,5/14/2021,Alice
+708,credit card information,Très élevé,tentative d'accès non autorisée,Terminé,4/6/2020,Eve
+709,confidential documents,élevé,vulnérabilité identifiée,Terminé,5/14/2020,David
+710,credit card information,Très élevé,intrusion détectée,Annulé,7/26/2021,Bob
+711,personal messages,Moyen,tentative d'accès non autorisée,En cours,7/14/2021,Charlie
+712,financial records,Moyen,attaque en cours,Annulé,9/16/2020,Alice
+713,bank account details,élevé,vulnérabilité identifiée,En cours,3/8/2020,Bob
+714,bank account details,Moyen,tentative d'accès non autorisée,Annulé,6/25/2019,Alice
+715,private photos,Moyen,attaque en cours,Annulé,8/16/2020,Alice
+716,financial records,Très élevé,intrusion détectée,En cours,12/4/2020,David
+717,personal emails,Très élevé,tentative d'accès non autorisée,Annulé,4/20/2021,Eve
+718,personal emails,Moyen,intrusion détectée,En cours,4/5/2020,David
+719,passwords,Faible,attaque en cours,Terminé,12/2/2019,Eve
+720,bank account details,Moyen,attaque en cours,Terminé,6/23/2019,Bob
+721,personal emails,Faible,vulnérabilité identifiée,Annulé,9/27/2021,Alice
+722,confidential documents,Faible,vulnérabilité identifiée,Annulé,3/12/2019,Charlie
+723,financial records,Faible,tentative d'accès non autorisée,Annulé,2/1/2021,Charlie
+724,social security numbers,élevé,vulnérabilité identifiée,En attente,1/8/2019,Alice
+725,passwords,Très élevé,intrusion détectée,Annulé,9/6/2020,Eve
+726,personal messages,Faible,attaque en cours,En attente,7/21/2020,Alice
+727,passwords,Faible,attaque en cours,Annulé,10/30/2020,David
+728,personal emails,Très élevé,intrusion détectée,En cours,6/9/2019,Alice
+729,personal emails,Faible,vulnérabilité identifiée,En attente,12/1/2021,Eve
+730,private photos,Moyen,attaque en cours,En attente,11/20/2019,Alice
+731,confidential documents,Faible,tentative d'accès non autorisée,Terminé,4/1/2021,David
+732,credit card information,Moyen,tentative d'accès non autorisée,En cours,12/26/2021,Eve
+733,passwords,Très élevé,intrusion détectée,En attente,9/3/2020,Bob
+734,personal messages,Moyen,tentative d'accès non autorisée,En attente,2/2/2020,Charlie
+735,medical history,Faible,intrusion détectée,Annulé,8/31/2021,David
+736,bank account details,Très élevé,vulnérabilité identifiée,Annulé,5/18/2019,Alice
+737,social security numbers,élevé,tentative d'accès non autorisée,En attente,4/24/2020,Charlie
+738,confidential documents,Faible,intrusion détectée,Annulé,5/26/2019,Eve
+739,financial records,Très élevé,vulnérabilité identifiée,Annulé,7/22/2019,David
+740,private photos,Faible,attaque en cours,Terminé,7/11/2019,David
+741,confidential documents,Très élevé,tentative d'accès non autorisée,Terminé,10/25/2021,David
+742,personal emails,Faible,vulnérabilité identifiée,En cours,2/8/2019,David
+743,credit card information,Faible,attaque en cours,En attente,1/31/2019,Alice
+744,personal emails,Moyen,attaque en cours,En cours,8/23/2021,Charlie
+745,social security numbers,élevé,intrusion détectée,En attente,1/22/2020,Charlie
+746,social security numbers,élevé,tentative d'accès non autorisée,Terminé,4/8/2021,Bob
+747,personal messages,élevé,attaque en cours,Annulé,2/18/2020,David
+748,confidential documents,Très élevé,tentative d'accès non autorisée,En attente,11/23/2020,Eve
+749,bank account details,élevé,attaque en cours,Terminé,3/9/2020,Charlie
+750,credit card information,élevé,tentative d'accès non autorisée,Annulé,3/23/2021,Charlie
+751,bank account details,Faible,vulnérabilité identifiée,En attente,8/13/2021,Bob
+752,bank account details,Moyen,tentative d'accès non autorisée,En attente,9/21/2019,Alice
+753,private photos,Très élevé,vulnérabilité identifiée,En attente,9/17/2021,Alice
+754,personal emails,Très élevé,intrusion détectée,En attente,4/9/2021,Charlie
+755,personal messages,élevé,attaque en cours,En cours,3/30/2021,Eve
+756,financial records,élevé,vulnérabilité identifiée,En attente,12/12/2019,Charlie
+757,bank account details,Faible,vulnérabilité identifiée,Terminé,1/31/2020,David
+758,personal messages,Très élevé,attaque en cours,Terminé,11/7/2020,Charlie
+759,medical history,Très élevé,tentative d'accès non autorisée,En cours,10/12/2021,David
+760,medical history,Moyen,vulnérabilité identifiée,Annulé,10/14/2019,Eve
+761,personal emails,élevé,vulnérabilité identifiée,En attente,10/20/2019,Eve
+762,medical history,Moyen,vulnérabilité identifiée,Terminé,7/21/2021,Alice
+763,private photos,Très élevé,intrusion détectée,En cours,12/9/2019,Charlie
+764,personal messages,Très élevé,vulnérabilité identifiée,En attente,11/28/2021,David
+765,social security numbers,Moyen,attaque en cours,En attente,5/14/2019,Charlie
+766,bank account details,Moyen,intrusion détectée,Terminé,9/26/2019,David
+767,personal emails,élevé,intrusion détectée,En attente,8/2/2020,Alice
+768,social security numbers,Très élevé,vulnérabilité identifiée,En attente,9/11/2019,Bob
+769,social security numbers,Très élevé,intrusion détectée,En cours,1/10/2021,Eve
+770,private photos,Moyen,intrusion détectée,Annulé,2/9/2021,Alice
+771,private photos,Moyen,vulnérabilité identifiée,En cours,5/4/2019,David
+772,personal emails,Très élevé,attaque en cours,En attente,7/12/2019,Eve
+773,financial records,Faible,attaque en cours,Annulé,1/6/2020,Charlie
+774,financial records,Très élevé,attaque en cours,Terminé,5/15/2020,Eve
+775,credit card information,Moyen,vulnérabilité identifiée,Annulé,9/12/2019,Charlie
+776,confidential documents,Très élevé,attaque en cours,En attente,6/9/2020,David
+777,bank account details,Moyen,vulnérabilité identifiée,Annulé,2/28/2019,Eve
+778,personal emails,élevé,vulnérabilité identifiée,En attente,11/8/2019,David
+779,social security numbers,Très élevé,attaque en cours,En cours,2/14/2020,Eve
+780,social security numbers,Faible,attaque en cours,Terminé,3/19/2021,Charlie
+781,medical history,élevé,attaque en cours,En attente,5/11/2019,David
+782,social security numbers,Moyen,attaque en cours,En cours,5/15/2019,David
+783,financial records,Faible,vulnérabilité identifiée,Terminé,6/11/2020,Alice
+784,private photos,Faible,vulnérabilité identifiée,En attente,9/7/2020,Eve
+785,social security numbers,élevé,attaque en cours,En attente,2/12/2020,Bob
+786,bank account details,Très élevé,intrusion détectée,En cours,11/22/2019,Bob
+787,medical history,élevé,vulnérabilité identifiée,En attente,3/30/2019,Alice
+788,financial records,élevé,attaque en cours,Terminé,10/21/2019,Eve
+789,personal emails,Très élevé,vulnérabilité identifiée,En attente,8/5/2020,Charlie
+790,social security numbers,Faible,attaque en cours,Terminé,12/27/2019,Alice
+791,personal emails,Très élevé,vulnérabilité identifiée,Terminé,12/26/2019,Bob
+792,medical history,élevé,intrusion détectée,Terminé,4/21/2019,David
+793,personal emails,Très élevé,tentative d'accès non autorisée,Annulé,1/1/2021,Charlie
+794,personal emails,Moyen,tentative d'accès non autorisée,En cours,8/28/2019,David
+795,credit card information,Faible,intrusion détectée,Terminé,2/5/2021,David
+796,financial records,Très élevé,intrusion détectée,En attente,5/28/2020,David
+797,financial records,élevé,vulnérabilité identifiée,Annulé,5/5/2020,Bob
+798,private photos,Moyen,intrusion détectée,Terminé,9/8/2020,Alice
+799,financial records,Faible,vulnérabilité identifiée,Terminé,6/11/2021,Bob
+800,financial records,Faible,intrusion détectée,En attente,7/4/2019,Charlie
+801,personal emails,Moyen,tentative d'accès non autorisée,Terminé,8/23/2021,Charlie
+802,credit card information,Moyen,intrusion détectée,En attente,2/16/2020,Charlie
+803,passwords,élevé,attaque en cours,En attente,8/22/2020,Eve
+804,social security numbers,élevé,tentative d'accès non autorisée,En attente,12/10/2020,Charlie
+805,private photos,Moyen,attaque en cours,En cours,5/18/2019,Bob
+806,personal messages,élevé,intrusion détectée,En attente,8/17/2019,Alice
+807,financial records,Moyen,intrusion détectée,En cours,7/12/2019,Eve
+808,private photos,Moyen,tentative d'accès non autorisée,Annulé,3/31/2019,Alice
+809,credit card information,Très élevé,intrusion détectée,En cours,11/18/2021,David
+810,social security numbers,Très élevé,intrusion détectée,Terminé,5/29/2020,Bob
+811,medical history,Moyen,vulnérabilité identifiée,En cours,8/28/2020,Bob
+812,credit card information,Très élevé,vulnérabilité identifiée,Annulé,6/21/2019,Charlie
+813,confidential documents,Très élevé,vulnérabilité identifiée,En cours,2/16/2021,Charlie
+814,confidential documents,Moyen,intrusion détectée,Terminé,10/31/2020,Alice
+815,medical history,Moyen,intrusion détectée,Annulé,5/17/2019,Charlie
+816,bank account details,Faible,vulnérabilité identifiée,En cours,6/15/2021,Bob
+817,passwords,Faible,tentative d'accès non autorisée,En cours,9/30/2020,Bob
+818,personal emails,élevé,vulnérabilité identifiée,En cours,8/20/2021,Charlie
+819,passwords,Très élevé,intrusion détectée,En attente,4/26/2019,David
+820,personal emails,Très élevé,attaque en cours,En cours,11/26/2019,Alice
+821,personal emails,élevé,vulnérabilité identifiée,Terminé,2/10/2020,David
+822,credit card information,Très élevé,vulnérabilité identifiée,En attente,1/11/2021,Eve
+823,confidential documents,Très élevé,attaque en cours,Annulé,5/25/2019,Bob
+824,private photos,Très élevé,intrusion détectée,Annulé,2/28/2019,Bob
+825,medical history,Faible,attaque en cours,En cours,8/2/2021,Bob
+826,passwords,Très élevé,attaque en cours,En attente,12/9/2019,Bob
+827,social security numbers,Très élevé,tentative d'accès non autorisée,En attente,10/8/2020,Bob
+828,passwords,Faible,tentative d'accès non autorisée,Terminé,5/12/2021,David
+829,credit card information,Très élevé,attaque en cours,En cours,10/23/2019,Charlie
+830,passwords,élevé,tentative d'accès non autorisée,En cours,2/8/2020,David
+831,bank account details,Moyen,tentative d'accès non autorisée,Terminé,9/6/2020,David
+832,bank account details,Moyen,tentative d'accès non autorisée,En cours,6/9/2019,Eve
+833,credit card information,Faible,intrusion détectée,Terminé,1/16/2020,Charlie
+834,financial records,Faible,tentative d'accès non autorisée,En attente,5/19/2020,David
+835,social security numbers,Moyen,intrusion détectée,Annulé,10/6/2021,Bob
+836,social security numbers,élevé,tentative d'accès non autorisée,En attente,5/15/2019,Charlie
+837,credit card information,Moyen,intrusion détectée,En attente,3/9/2021,Eve
+838,medical history,Faible,tentative d'accès non autorisée,En attente,3/19/2020,David
+839,private photos,Faible,tentative d'accès non autorisée,En cours,12/24/2020,Eve
+840,credit card information,Très élevé,tentative d'accès non autorisée,Terminé,2/23/2020,Bob
+841,credit card information,élevé,vulnérabilité identifiée,Annulé,2/22/2021,Bob
+842,financial records,Faible,intrusion détectée,En attente,1/25/2020,David
+843,financial records,élevé,attaque en cours,En cours,3/17/2019,David
+844,credit card information,Moyen,tentative d'accès non autorisée,En cours,2/24/2020,Bob
+845,private photos,Moyen,attaque en cours,Terminé,3/21/2019,Eve
+846,passwords,Faible,vulnérabilité identifiée,En cours,9/30/2021,Charlie
+847,social security numbers,élevé,vulnérabilité identifiée,Annulé,6/19/2020,Eve
+848,personal messages,élevé,attaque en cours,En cours,2/1/2020,Alice
+849,private photos,élevé,attaque en cours,Terminé,8/4/2020,David
+850,personal emails,Moyen,attaque en cours,En attente,4/22/2020,Alice
+851,private photos,Très élevé,intrusion détectée,En cours,11/10/2021,Eve
+852,bank account details,Très élevé,intrusion détectée,En cours,7/7/2019,Charlie
+853,credit card information,Très élevé,attaque en cours,En cours,5/31/2019,David
+854,private photos,Très élevé,vulnérabilité identifiée,En cours,10/31/2021,Charlie
+855,bank account details,Faible,vulnérabilité identifiée,Annulé,10/6/2019,Charlie
+856,social security numbers,Moyen,vulnérabilité identifiée,Annulé,10/9/2020,Alice
+857,credit card information,Très élevé,vulnérabilité identifiée,Annulé,5/26/2021,Charlie
+858,financial records,Faible,tentative d'accès non autorisée,Terminé,6/30/2019,Charlie
+859,private photos,Très élevé,attaque en cours,Terminé,4/13/2021,Eve
+860,personal emails,Moyen,intrusion détectée,Terminé,6/14/2020,Eve
+861,personal messages,Moyen,tentative d'accès non autorisée,Annulé,10/22/2019,David
+862,medical history,élevé,intrusion détectée,En cours,9/25/2020,Alice
+863,bank account details,Faible,intrusion détectée,En attente,9/26/2019,Alice
+864,personal emails,Faible,vulnérabilité identifiée,En attente,1/11/2021,Charlie
+865,personal emails,élevé,vulnérabilité identifiée,Terminé,2/26/2020,Eve
+866,social security numbers,Moyen,intrusion détectée,En attente,2/15/2021,David
+867,personal emails,Moyen,tentative d'accès non autorisée,En attente,12/13/2021,Charlie
+868,bank account details,Très élevé,intrusion détectée,En attente,6/15/2020,Bob
+869,confidential documents,Faible,tentative d'accès non autorisée,En attente,7/27/2020,Alice
+870,personal messages,Faible,vulnérabilité identifiée,Annulé,3/31/2019,Eve
+871,personal messages,Faible,tentative d'accès non autorisée,En attente,12/16/2021,Alice
+872,passwords,élevé,intrusion détectée,En attente,5/30/2021,Alice
+873,personal messages,Moyen,intrusion détectée,En attente,1/20/2019,Charlie
+874,financial records,Faible,vulnérabilité identifiée,En cours,10/29/2021,David
+875,medical history,Très élevé,attaque en cours,En cours,9/25/2020,David
+876,bank account details,élevé,intrusion détectée,En attente,2/25/2019,David
+877,social security numbers,Très élevé,tentative d'accès non autorisée,Terminé,5/2/2020,David
+878,personal emails,Faible,vulnérabilité identifiée,En cours,6/30/2020,Alice
+879,passwords,élevé,vulnérabilité identifiée,Annulé,2/21/2021,Charlie
+880,medical history,Très élevé,intrusion détectée,Annulé,8/2/2020,Eve
+881,medical history,Très élevé,intrusion détectée,En attente,12/24/2019,Eve
+882,bank account details,Faible,vulnérabilité identifiée,Terminé,9/17/2020,David
+883,private photos,Moyen,tentative d'accès non autorisée,En attente,8/21/2019,Eve
+884,personal emails,Faible,intrusion détectée,Terminé,1/28/2021,Charlie
+885,confidential documents,Très élevé,vulnérabilité identifiée,Annulé,11/1/2020,Charlie
+886,personal messages,Très élevé,intrusion détectée,En cours,12/15/2019,Bob
+887,social security numbers,Faible,tentative d'accès non autorisée,En attente,2/29/2020,Eve
+888,financial records,élevé,tentative d'accès non autorisée,Terminé,3/3/2021,Charlie
+889,personal emails,élevé,tentative d'accès non autorisée,Terminé,2/27/2019,Charlie
+890,bank account details,Moyen,vulnérabilité identifiée,En attente,10/2/2021,Alice
+891,private photos,Très élevé,intrusion détectée,En attente,2/22/2019,Bob
+892,personal messages,élevé,intrusion détectée,Annulé,4/30/2020,Bob
+893,financial records,Moyen,vulnérabilité identifiée,Annulé,12/16/2021,Eve
+894,credit card information,Faible,attaque en cours,Terminé,8/2/2021,Charlie
+895,personal messages,Faible,vulnérabilité identifiée,Terminé,8/11/2019,Eve
+896,bank account details,Très élevé,attaque en cours,Annulé,2/7/2021,Bob
+897,bank account details,Très élevé,tentative d'accès non autorisée,Annulé,7/31/2019,Eve
+898,financial records,Moyen,attaque en cours,En attente,6/9/2020,Charlie
+899,social security numbers,Faible,intrusion détectée,En attente,9/13/2019,David
+900,financial records,Moyen,vulnérabilité identifiée,Annulé,8/1/2020,Charlie
+901,financial records,Faible,attaque en cours,En attente,2/1/2020,Charlie
+902,medical history,Moyen,vulnérabilité identifiée,En attente,9/9/2019,Alice
+903,passwords,élevé,intrusion détectée,Terminé,4/11/2019,Alice
+904,credit card information,élevé,vulnérabilité identifiée,En cours,5/17/2020,Alice
+905,passwords,Très élevé,attaque en cours,Annulé,12/1/2019,Bob
+906,personal messages,élevé,intrusion détectée,Terminé,6/16/2020,Alice
+907,personal messages,Moyen,vulnérabilité identifiée,Annulé,12/18/2019,Alice
+908,passwords,Faible,tentative d'accès non autorisée,En attente,7/14/2020,Eve
+909,medical history,Moyen,vulnérabilité identifiée,Annulé,7/14/2021,David
+910,credit card information,élevé,attaque en cours,Annulé,2/17/2021,Bob
+911,social security numbers,Moyen,vulnérabilité identifiée,Annulé,8/30/2021,Eve
+912,personal messages,Très élevé,tentative d'accès non autorisée,En attente,1/22/2019,Alice
+913,personal emails,Très élevé,tentative d'accès non autorisée,En cours,7/27/2021,Alice
+914,medical history,Très élevé,tentative d'accès non autorisée,En attente,7/4/2019,Alice
+915,private photos,Moyen,tentative d'accès non autorisée,En attente,4/13/2021,Alice
+916,bank account details,Très élevé,tentative d'accès non autorisée,En cours,6/18/2019,Eve
+917,passwords,Moyen,tentative d'accès non autorisée,Terminé,7/2/2021,Eve
+918,social security numbers,Moyen,vulnérabilité identifiée,En cours,12/28/2021,Eve
+919,confidential documents,Faible,tentative d'accès non autorisée,En attente,1/15/2021,Charlie
+920,medical history,Très élevé,attaque en cours,Terminé,9/2/2019,Bob
+921,personal messages,Moyen,tentative d'accès non autorisée,Terminé,8/19/2021,Bob
+922,personal messages,Moyen,intrusion détectée,En attente,4/21/2021,Eve
+923,personal messages,Faible,vulnérabilité identifiée,Terminé,2/28/2021,Alice
+924,credit card information,élevé,vulnérabilité identifiée,Annulé,10/20/2020,Eve
+925,bank account details,élevé,intrusion détectée,Terminé,5/6/2020,Bob
+926,passwords,Très élevé,attaque en cours,En attente,1/27/2019,Bob
+927,credit card information,Très élevé,vulnérabilité identifiée,Terminé,3/14/2019,Eve
+928,confidential documents,Faible,intrusion détectée,Terminé,11/29/2020,David
+929,social security numbers,élevé,tentative d'accès non autorisée,Terminé,9/21/2020,Bob
+930,medical history,Faible,intrusion détectée,Terminé,1/12/2019,Alice
+931,private photos,Faible,attaque en cours,En attente,10/3/2019,David
+932,private photos,Très élevé,vulnérabilité identifiée,Annulé,10/28/2021,Alice
+933,bank account details,Faible,intrusion détectée,Terminé,8/10/2021,Alice
+934,passwords,Très élevé,vulnérabilité identifiée,Annulé,8/2/2019,David
+935,confidential documents,Très élevé,intrusion détectée,En attente,12/29/2021,Charlie
+936,credit card information,Très élevé,intrusion détectée,Annulé,11/21/2020,Eve
+937,personal messages,Moyen,tentative d'accès non autorisée,En attente,12/3/2021,Eve
+938,social security numbers,Très élevé,intrusion détectée,En cours,8/21/2019,Eve
+939,personal emails,Très élevé,vulnérabilité identifiée,En cours,1/23/2019,David
+940,private photos,Faible,vulnérabilité identifiée,En cours,8/4/2021,Alice
+941,personal messages,Faible,vulnérabilité identifiée,Terminé,10/15/2019,Bob
+942,social security numbers,Très élevé,attaque en cours,En attente,10/26/2019,Charlie
+943,medical history,Moyen,tentative d'accès non autorisée,En attente,3/29/2019,Bob
+944,medical history,Faible,tentative d'accès non autorisée,En attente,8/3/2020,Alice
+945,credit card information,Très élevé,vulnérabilité identifiée,Terminé,5/18/2021,Charlie
+946,personal messages,Faible,attaque en cours,Annulé,3/7/2021,David
+947,personal emails,élevé,attaque en cours,Annulé,6/14/2021,Eve
+948,private photos,Faible,intrusion détectée,En attente,6/14/2020,Charlie
+949,personal messages,Faible,tentative d'accès non autorisée,Terminé,10/2/2021,Charlie
+950,private photos,élevé,intrusion détectée,Terminé,6/20/2020,David
+951,confidential documents,Moyen,tentative d'accès non autorisée,En attente,9/15/2019,Alice
+952,passwords,Moyen,vulnérabilité identifiée,Annulé,7/1/2020,Charlie
+953,private photos,Faible,attaque en cours,En cours,6/11/2020,Charlie
+954,private photos,Très élevé,vulnérabilité identifiée,En attente,11/21/2019,Charlie
+955,passwords,Moyen,vulnérabilité identifiée,En cours,4/10/2021,Eve
+956,personal messages,Très élevé,attaque en cours,Annulé,3/2/2021,David
+957,financial records,Moyen,intrusion détectée,En attente,2/1/2019,David
+958,credit card information,Très élevé,intrusion détectée,En attente,6/24/2019,Eve
+959,financial records,Très élevé,vulnérabilité identifiée,Annulé,5/23/2021,Bob
+960,private photos,Très élevé,vulnérabilité identifiée,Annulé,7/31/2021,Bob
+961,confidential documents,Très élevé,attaque en cours,Terminé,10/10/2019,David
+962,passwords,Faible,attaque en cours,En attente,3/29/2019,Bob
+963,passwords,Moyen,intrusion détectée,En cours,8/15/2021,Alice
+964,private photos,Moyen,attaque en cours,Annulé,2/13/2021,Eve
+965,passwords,élevé,vulnérabilité identifiée,Terminé,10/1/2020,Alice
+966,financial records,Faible,tentative d'accès non autorisée,En attente,2/23/2021,Eve
+967,medical history,élevé,attaque en cours,En attente,3/17/2020,Bob
+968,passwords,Très élevé,attaque en cours,Annulé,3/8/2020,David
+969,financial records,élevé,tentative d'accès non autorisée,Annulé,6/21/2020,Eve
+970,medical history,Très élevé,vulnérabilité identifiée,En cours,9/7/2020,Eve
+971,private photos,Très élevé,attaque en cours,En cours,11/12/2021,David
+972,credit card information,Très élevé,intrusion détectée,En cours,3/25/2021,Alice
+973,social security numbers,élevé,tentative d'accès non autorisée,En cours,6/9/2020,Eve
+974,bank account details,élevé,tentative d'accès non autorisée,Terminé,2/18/2019,Eve
+975,bank account details,Faible,vulnérabilité identifiée,Annulé,8/4/2020,Bob
+976,credit card information,Faible,intrusion détectée,Annulé,12/24/2020,Charlie
+977,credit card information,Très élevé,attaque en cours,Annulé,12/12/2021,Bob
+978,confidential documents,Moyen,tentative d'accès non autorisée,En cours,11/9/2021,Eve
+979,medical history,élevé,vulnérabilité identifiée,Annulé,4/21/2021,David
+980,credit card information,élevé,tentative d'accès non autorisée,En attente,6/12/2021,Eve
+981,confidential documents,élevé,tentative d'accès non autorisée,En cours,1/28/2019,Bob
+982,medical history,Très élevé,intrusion détectée,En cours,10/6/2019,Eve
+983,credit card information,élevé,attaque en cours,Annulé,9/18/2021,David
+984,private photos,élevé,tentative d'accès non autorisée,En cours,10/28/2019,David
+985,bank account details,Moyen,attaque en cours,Annulé,11/22/2019,Bob
+986,personal messages,élevé,attaque en cours,Annulé,8/13/2019,Alice
+987,credit card information,Très élevé,tentative d'accès non autorisée,En cours,8/13/2020,David
+988,credit card information,Très élevé,vulnérabilité identifiée,En attente,11/12/2019,Bob
+989,personal emails,Moyen,attaque en cours,Terminé,5/11/2019,Alice
+990,private photos,Très élevé,tentative d'accès non autorisée,Terminé,2/20/2021,David
+991,medical history,Très élevé,vulnérabilité identifiée,En cours,4/11/2019,Charlie
+992,bank account details,Faible,tentative d'accès non autorisée,Terminé,3/1/2020,Eve
+993,personal messages,Moyen,intrusion détectée,En attente,4/5/2021,Eve
+994,financial records,Faible,attaque en cours,Annulé,3/30/2019,Bob
+995,personal messages,Faible,tentative d'accès non autorisée,En attente,12/16/2021,David
+996,personal messages,Moyen,attaque en cours,En attente,12/31/2020,Alice
+997,credit card information,Moyen,vulnérabilité identifiée,En attente,6/6/2021,Eve
+998,personal emails,Très élevé,vulnérabilité identifiée,Terminé,12/22/2019,David
+999,credit card information,élevé,tentative d'accès non autorisée,En attente,5/15/2019,Alice
+1000,personal emails,Faible,tentative d'accès non autorisée,Terminé,4/25/2020,Charlie

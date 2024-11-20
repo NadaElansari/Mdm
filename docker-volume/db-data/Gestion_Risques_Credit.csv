@@ -1,0 +1,1001 @@
+Client_ID,Nom_Client,Type_Crédit,Montant_Crédit,Date_Prêt,Taux_Intérêt,Statut_Crédit
+1,Omar,mortgage,846451.71,January 1,3.13,défaillant
+2,Zainab,student loan,942779.98,March 15,3.08,terminé
+3,Fatima,mortgage,839772.58,2022,4.3,en cours
+4,Ali,auto loan,975707.72,December 25,2.78,en cours
+5,Fatima,student loan,39764.42,2022,3.43,en cours
+6,Abdullah,personal loan,75465.01,2022,4.69,défaillant
+7,Abdullah,auto loan,636608.23,2022,2.36,terminé
+8,Youssef,mortgage,913822.19,January 1,2.08,terminé
+9,Fatima,credit card,467770.49,2022,3.92,défaillant
+10,Zainab,auto loan,751099.92,June 30,4.56,défaillant
+11,Youssef,student loan,846538.89,2022,3.0,terminé
+12,Youssef,auto loan,731518.86,2022,3.89,défaillant
+13,Ali,student loan,966895.67,January 1,3.9,en cours
+14,Zainab,personal loan,287830.43,2022,3.29,terminé
+15,Ali,personal loan,116068.47,2022,2.53,en cours
+16,Omar,student loan,507521.31,March 15,3.81,en cours
+17,Nour,student loan,136971.57,January 1,4.25,terminé
+18,Layla,auto loan,619293.44,2022,2.17,terminé
+19,Zainab,auto loan,368207.24,September 10,4.26,terminé
+20,Fatima,credit card,801570.52,September 10,4.84,terminé
+21,Ali,auto loan,85134.44,2022,4.47,défaillant
+22,Youssef,auto loan,528357.64,2022,2.54,terminé
+23,Ali,mortgage,243105.91,March 15,2.68,défaillant
+24,Omar,mortgage,628110.23,January 1,4.57,terminé
+25,Omar,personal loan,810732.78,January 1,3.71,défaillant
+26,Zainab,personal loan,590385.0,December 25,4.45,terminé
+27,Zainab,student loan,100261.54,January 1,3.98,défaillant
+28,Youssef,mortgage,881098.47,March 15,2.05,en cours
+29,Ali,credit card,414122.21,2022,2.88,terminé
+30,Fatima,student loan,191029.79,2022,4.13,défaillant
+31,Abdullah,mortgage,574577.98,2022,4.17,en cours
+32,Youssef,mortgage,846798.16,2022,4.57,terminé
+33,Fatima,mortgage,60245.34,December 25,3.81,défaillant
+34,Youssef,student loan,760966.14,2022,4.22,défaillant
+35,Aisha,personal loan,5448.57,2022,2.43,en cours
+36,Omar,mortgage,366607.82,2022,2.59,défaillant
+37,Youssef,mortgage,718956.3,January 1,3.49,défaillant
+38,Youssef,auto loan,723489.04,March 15,3.94,en cours
+39,Khalid,auto loan,60632.15,2022,4.2,terminé
+40,Aisha,credit card,950788.97,September 10,2.96,terminé
+41,Omar,credit card,803542.76,2022,3.09,terminé
+42,Omar,credit card,810041.52,2022,4.38,terminé
+43,Omar,student loan,162089.2,2022,4.5,terminé
+44,Abdullah,student loan,10172.35,2022,2.19,défaillant
+45,Nour,mortgage,195457.59,June 30,4.88,défaillant
+46,Omar,credit card,529577.65,2022,2.96,défaillant
+47,Omar,auto loan,765819.49,2022,2.42,en cours
+48,Abdullah,credit card,571855.02,December 25,4.71,défaillant
+49,Youssef,mortgage,7704.64,2022,4.09,en cours
+50,Zainab,personal loan,851577.63,March 15,3.57,défaillant
+51,Nour,mortgage,599505.53,2022,4.32,en cours
+52,Omar,auto loan,432399.67,2022,4.24,terminé
+53,Abdullah,student loan,538089.16,2022,4.27,en cours
+54,Ali,credit card,578370.53,March 15,2.99,défaillant
+55,Nour,mortgage,920751.18,March 15,2.43,défaillant
+56,Layla,auto loan,163234.4,2022,3.27,terminé
+57,Ali,personal loan,675569.03,2022,3.58,en cours
+58,Omar,student loan,577801.48,2022,2.25,en cours
+59,Khalid,credit card,670975.62,December 25,2.11,en cours
+60,Nour,credit card,2090.34,March 15,2.4,terminé
+61,Abdullah,credit card,281864.3,September 10,3.98,terminé
+62,Layla,credit card,954635.75,2022,4.27,défaillant
+63,Fatima,mortgage,890323.29,December 25,3.53,terminé
+64,Omar,student loan,744390.51,June 30,4.02,en cours
+65,Fatima,credit card,711043.69,September 10,3.15,terminé
+66,Ali,personal loan,951681.58,December 25,2.95,en cours
+67,Aisha,auto loan,170998.3,2022,3.27,en cours
+68,Khalid,personal loan,615986.38,2022,4.74,en cours
+69,Layla,student loan,497323.36,2022,3.93,défaillant
+70,Zainab,mortgage,581443.64,2022,3.36,terminé
+71,Khalid,mortgage,59815.77,2022,4.3,terminé
+72,Fatima,auto loan,309668.3,2022,4.04,terminé
+73,Layla,personal loan,966033.6,2022,2.52,en cours
+74,Khalid,auto loan,567031.63,2022,4.26,en cours
+75,Ali,credit card,477525.18,2022,4.25,défaillant
+76,Abdullah,credit card,293941.04,2022,3.31,terminé
+77,Abdullah,auto loan,164241.51,2022,3.92,en cours
+78,Aisha,auto loan,544412.68,2022,4.52,terminé
+79,Youssef,student loan,695707.78,2022,4.63,terminé
+80,Aisha,credit card,958942.03,2022,3.7,en cours
+81,Youssef,auto loan,537358.91,March 15,2.86,défaillant
+82,Ali,mortgage,236372.18,2022,3.98,défaillant
+83,Omar,student loan,270953.05,December 25,3.93,défaillant
+84,Zainab,credit card,758729.74,2022,3.92,terminé
+85,Layla,personal loan,707820.77,2022,4.44,en cours
+86,Nour,personal loan,146522.51,March 15,2.82,défaillant
+87,Ali,student loan,81781.57,2022,4.89,terminé
+88,Fatima,credit card,118909.31,2022,3.17,défaillant
+89,Ali,credit card,148361.84,January 1,3.47,défaillant
+90,Aisha,auto loan,776233.46,December 25,3.16,terminé
+91,Khalid,mortgage,915358.87,September 10,2.36,défaillant
+92,Omar,mortgage,120884.47,September 10,3.5,terminé
+93,Khalid,student loan,721963.45,January 1,3.7,en cours
+94,Layla,credit card,780502.39,2022,4.23,en cours
+95,Youssef,auto loan,100138.43,September 10,4.99,défaillant
+96,Aisha,auto loan,151121.86,June 30,4.09,en cours
+97,Zainab,personal loan,890384.77,December 25,4.85,en cours
+98,Youssef,mortgage,21731.99,2022,4.26,défaillant
+99,Nour,auto loan,370922.87,2022,4.08,défaillant
+100,Omar,credit card,741001.24,2022,2.41,en cours
+101,Nour,mortgage,492405.79,June 30,2.89,terminé
+102,Aisha,personal loan,925088.26,March 15,3.76,terminé
+103,Omar,auto loan,404810.32,December 25,4.15,défaillant
+104,Aisha,personal loan,418741.61,2022,3.15,terminé
+105,Khalid,credit card,108381.02,March 15,3.52,terminé
+106,Omar,mortgage,321713.97,2022,3.12,défaillant
+107,Khalid,mortgage,538072.98,2022,4.9,en cours
+108,Aisha,auto loan,297246.34,September 10,4.33,terminé
+109,Fatima,auto loan,351398.9,June 30,4.09,terminé
+110,Fatima,credit card,938750.07,December 25,3.31,en cours
+111,Abdullah,auto loan,364333.8,June 30,4.87,défaillant
+112,Zainab,student loan,916782.12,2022,3.55,terminé
+113,Ali,mortgage,317697.0,March 15,3.35,défaillant
+114,Abdullah,credit card,585609.13,2022,4.93,en cours
+115,Youssef,personal loan,220787.23,2022,2.57,terminé
+116,Fatima,auto loan,608271.42,2022,3.29,terminé
+117,Omar,student loan,293835.25,June 30,3.08,en cours
+118,Khalid,credit card,697173.67,2022,4.11,défaillant
+119,Abdullah,credit card,608891.31,September 10,2.77,en cours
+120,Layla,personal loan,623906.63,2022,3.92,terminé
+121,Abdullah,student loan,308746.55,January 1,2.31,défaillant
+122,Layla,student loan,838315.89,June 30,4.41,terminé
+123,Abdullah,credit card,440316.24,2022,4.91,terminé
+124,Fatima,mortgage,668480.03,December 25,2.31,défaillant
+125,Abdullah,mortgage,628985.07,2022,2.12,en cours
+126,Nour,student loan,929714.62,2022,2.68,en cours
+127,Aisha,mortgage,576162.72,March 15,3.93,en cours
+128,Nour,personal loan,490023.0,December 25,2.24,en cours
+129,Omar,personal loan,631851.67,June 30,3.51,défaillant
+130,Nour,credit card,113304.34,2022,2.46,défaillant
+131,Youssef,credit card,200924.75,2022,3.12,terminé
+132,Layla,credit card,317642.93,2022,2.39,défaillant
+133,Abdullah,auto loan,126220.97,2022,4.05,en cours
+134,Khalid,mortgage,101132.52,June 30,2.75,terminé
+135,Fatima,credit card,907152.71,June 30,4.17,terminé
+136,Fatima,auto loan,509805.58,January 1,4.02,terminé
+137,Aisha,auto loan,866678.29,2022,2.07,terminé
+138,Youssef,auto loan,155683.88,June 30,3.63,défaillant
+139,Zainab,mortgage,884778.79,2022,3.27,défaillant
+140,Zainab,credit card,362693.22,January 1,3.76,défaillant
+141,Aisha,student loan,704201.93,March 15,2.45,terminé
+142,Omar,auto loan,121405.02,2022,2.93,terminé
+143,Fatima,personal loan,80182.89,2022,4.43,défaillant
+144,Nour,student loan,88800.02,June 30,3.84,terminé
+145,Nour,credit card,85293.34,March 15,3.21,défaillant
+146,Abdullah,personal loan,447428.72,December 25,3.79,en cours
+147,Abdullah,personal loan,428288.91,March 15,3.69,défaillant
+148,Nour,mortgage,992146.99,2022,2.35,en cours
+149,Omar,student loan,11230.72,2022,3.6,défaillant
+150,Nour,mortgage,803960.79,2022,4.45,en cours
+151,Omar,mortgage,179387.21,2022,3.12,défaillant
+152,Ali,student loan,945958.22,2022,3.68,défaillant
+153,Omar,student loan,953603.88,2022,4.89,défaillant
+154,Nour,credit card,981842.36,2022,2.97,terminé
+155,Aisha,personal loan,628000.28,March 15,4.88,défaillant
+156,Aisha,auto loan,996327.24,2022,3.67,terminé
+157,Abdullah,credit card,468336.55,January 1,3.81,défaillant
+158,Khalid,personal loan,77796.26,December 25,3.07,en cours
+159,Fatima,credit card,116095.12,2022,3.97,en cours
+160,Omar,student loan,616017.48,March 15,2.89,défaillant
+161,Nour,personal loan,664005.52,January 1,4.28,terminé
+162,Omar,mortgage,849917.9,December 25,2.93,défaillant
+163,Khalid,personal loan,877318.93,2022,3.99,en cours
+164,Ali,auto loan,496837.63,January 1,3.09,défaillant
+165,Zainab,personal loan,200784.29,June 30,2.48,terminé
+166,Aisha,auto loan,702806.11,2022,4.84,terminé
+167,Fatima,student loan,335789.54,June 30,4.0,défaillant
+168,Khalid,personal loan,470539.06,January 1,2.79,défaillant
+169,Khalid,auto loan,450768.33,January 1,3.94,terminé
+170,Khalid,auto loan,498236.32,2022,2.22,défaillant
+171,Youssef,student loan,969386.14,March 15,4.5,défaillant
+172,Zainab,student loan,476371.99,December 25,2.63,terminé
+173,Zainab,personal loan,26148.4,2022,2.42,en cours
+174,Abdullah,auto loan,127017.17,March 15,3.02,défaillant
+175,Nour,student loan,250549.79,January 1,3.17,défaillant
+176,Zainab,student loan,474443.56,December 25,2.72,en cours
+177,Abdullah,credit card,155765.43,2022,2.33,défaillant
+178,Fatima,auto loan,16944.85,2022,4.78,en cours
+179,Youssef,credit card,559809.74,2022,3.69,défaillant
+180,Nour,credit card,214859.5,March 15,3.84,terminé
+181,Nour,auto loan,922462.02,2022,2.26,en cours
+182,Nour,student loan,979931.32,2022,4.18,défaillant
+183,Layla,auto loan,35347.5,2022,4.72,défaillant
+184,Youssef,credit card,169646.97,2022,4.58,terminé
+185,Nour,personal loan,244007.44,December 25,3.18,défaillant
+186,Abdullah,credit card,57041.32,June 30,3.91,terminé
+187,Ali,credit card,8723.75,June 30,3.69,en cours
+188,Aisha,auto loan,340680.12,June 30,3.92,en cours
+189,Omar,student loan,723882.74,June 30,2.55,terminé
+190,Ali,credit card,3852.64,June 30,2.32,en cours
+191,Ali,credit card,895092.26,June 30,3.93,terminé
+192,Fatima,personal loan,556546.6,2022,2.12,terminé
+193,Khalid,personal loan,986281.11,June 30,3.43,en cours
+194,Nour,student loan,290760.88,December 25,2.35,en cours
+195,Abdullah,credit card,111510.85,2022,4.14,en cours
+196,Khalid,mortgage,227846.62,2022,3.43,en cours
+197,Ali,mortgage,215112.02,January 1,3.79,en cours
+198,Zainab,personal loan,362338.25,December 25,3.04,défaillant
+199,Abdullah,credit card,626956.59,March 15,4.85,défaillant
+200,Zainab,mortgage,492124.93,September 10,2.64,défaillant
+201,Zainab,personal loan,540685.69,2022,2.54,terminé
+202,Fatima,personal loan,161936.72,December 25,4.89,défaillant
+203,Zainab,credit card,688869.46,2022,4.02,terminé
+204,Youssef,credit card,65307.14,September 10,4.85,défaillant
+205,Layla,auto loan,237278.94,2022,4.5,terminé
+206,Zainab,personal loan,233369.65,2022,2.19,défaillant
+207,Omar,student loan,450933.98,2022,3.39,défaillant
+208,Zainab,auto loan,945867.21,March 15,2.2,en cours
+209,Nour,mortgage,635434.38,January 1,2.01,défaillant
+210,Fatima,mortgage,715889.32,2022,2.88,en cours
+211,Aisha,auto loan,543578.1,2022,4.19,en cours
+212,Aisha,student loan,959110.32,2022,2.76,en cours
+213,Omar,auto loan,544698.28,September 10,2.82,en cours
+214,Khalid,student loan,815392.66,2022,4.14,terminé
+215,Youssef,personal loan,763691.33,2022,3.97,en cours
+216,Zainab,personal loan,568506.11,2022,4.26,terminé
+217,Zainab,mortgage,426079.91,2022,2.27,défaillant
+218,Omar,credit card,488979.3,2022,3.53,défaillant
+219,Omar,student loan,437416.27,September 10,3.13,terminé
+220,Khalid,personal loan,319818.54,December 25,3.19,défaillant
+221,Ali,mortgage,288865.72,2022,2.16,terminé
+222,Zainab,personal loan,851471.59,September 10,4.52,terminé
+223,Fatima,credit card,343577.88,January 1,4.84,défaillant
+224,Fatima,auto loan,9339.59,March 15,2.5,défaillant
+225,Youssef,student loan,893431.77,January 1,4.15,terminé
+226,Zainab,auto loan,854396.0,2022,2.62,défaillant
+227,Nour,personal loan,125534.06,December 25,3.82,en cours
+228,Ali,personal loan,700639.82,December 25,4.37,en cours
+229,Zainab,personal loan,664631.25,December 25,4.5,défaillant
+230,Zainab,credit card,604773.29,2022,3.1,terminé
+231,Abdullah,student loan,839469.22,2022,4.19,défaillant
+232,Omar,mortgage,641504.62,2022,2.16,en cours
+233,Khalid,credit card,692410.33,June 30,2.48,défaillant
+234,Fatima,student loan,940299.52,2022,4.25,défaillant
+235,Zainab,mortgage,141095.42,2022,3.96,terminé
+236,Nour,mortgage,824975.18,2022,4.66,terminé
+237,Omar,student loan,80402.04,2022,2.03,défaillant
+238,Omar,personal loan,960059.75,2022,2.54,terminé
+239,Layla,mortgage,419269.24,2022,4.43,terminé
+240,Nour,personal loan,81346.27,September 10,4.18,défaillant
+241,Layla,personal loan,12588.18,September 10,4.71,terminé
+242,Layla,mortgage,968650.39,2022,3.03,en cours
+243,Abdullah,credit card,854846.36,2022,4.07,terminé
+244,Aisha,mortgage,360220.67,January 1,4.99,défaillant
+245,Nour,credit card,607267.56,September 10,4.45,défaillant
+246,Youssef,auto loan,85516.18,January 1,4.15,terminé
+247,Youssef,student loan,920449.7,January 1,4.92,en cours
+248,Layla,mortgage,210792.65,June 30,4.65,en cours
+249,Youssef,credit card,462399.17,December 25,3.17,terminé
+250,Ali,student loan,927454.74,January 1,3.63,défaillant
+251,Khalid,credit card,811138.19,2022,3.06,en cours
+252,Aisha,student loan,575525.39,January 1,3.54,défaillant
+253,Abdullah,mortgage,574786.08,2022,2.78,défaillant
+254,Nour,mortgage,348451.03,2022,3.63,terminé
+255,Khalid,credit card,426691.84,January 1,3.19,terminé
+256,Ali,auto loan,66509.52,2022,2.06,défaillant
+257,Nour,mortgage,954683.43,2022,4.93,en cours
+258,Zainab,mortgage,460913.17,September 10,2.76,terminé
+259,Layla,student loan,740124.33,2022,3.34,défaillant
+260,Ali,auto loan,630700.33,September 10,2.33,défaillant
+261,Youssef,credit card,250544.85,March 15,2.6,en cours
+262,Youssef,student loan,126487.25,2022,4.65,en cours
+263,Omar,credit card,768479.87,June 30,4.54,défaillant
+264,Youssef,credit card,604738.17,January 1,2.87,terminé
+265,Nour,personal loan,67778.99,2022,2.05,défaillant
+266,Khalid,credit card,700326.58,September 10,2.02,terminé
+267,Abdullah,mortgage,525388.57,2022,3.76,en cours
+268,Khalid,personal loan,168350.8,September 10,3.69,en cours
+269,Khalid,personal loan,554782.36,June 30,3.12,terminé
+270,Zainab,personal loan,18491.57,September 10,2.24,terminé
+271,Ali,student loan,69575.16,December 25,2.38,défaillant
+272,Zainab,student loan,31946.22,2022,2.16,terminé
+273,Youssef,personal loan,964882.75,2022,4.13,terminé
+274,Khalid,mortgage,642014.69,December 25,3.58,en cours
+275,Abdullah,credit card,155092.04,2022,4.22,défaillant
+276,Omar,student loan,80063.17,December 25,4.2,en cours
+277,Youssef,credit card,699127.62,March 15,4.18,en cours
+278,Fatima,student loan,420083.71,December 25,4.91,en cours
+279,Omar,auto loan,132738.51,June 30,4.09,terminé
+280,Layla,mortgage,632001.87,June 30,4.5,terminé
+281,Layla,personal loan,659721.3,January 1,4.13,défaillant
+282,Abdullah,student loan,142608.28,2022,3.48,terminé
+283,Abdullah,personal loan,354603.58,2022,2.25,terminé
+284,Khalid,credit card,159059.25,2022,4.8,défaillant
+285,Omar,student loan,696464.28,2022,3.5,en cours
+286,Aisha,student loan,719315.5,2022,4.96,terminé
+287,Ali,student loan,251422.02,March 15,4.5,en cours
+288,Abdullah,credit card,306577.86,January 1,2.4,en cours
+289,Khalid,personal loan,77311.31,December 25,3.16,en cours
+290,Omar,credit card,645843.44,2022,2.39,défaillant
+291,Layla,personal loan,830793.27,January 1,2.13,défaillant
+292,Zainab,personal loan,803506.94,2022,2.93,en cours
+293,Abdullah,student loan,947345.78,2022,3.94,en cours
+294,Youssef,personal loan,134383.85,September 10,4.09,terminé
+295,Omar,student loan,441367.3,2022,2.35,défaillant
+296,Omar,credit card,636400.43,2022,4.46,en cours
+297,Nour,credit card,566091.51,March 15,4.3,défaillant
+298,Nour,mortgage,884515.63,March 15,3.9,défaillant
+299,Zainab,mortgage,12108.62,September 10,2.18,en cours
+300,Abdullah,mortgage,333260.22,June 30,4.46,en cours
+301,Zainab,personal loan,583768.55,March 15,3.42,défaillant
+302,Layla,mortgage,621726.35,December 25,4.46,terminé
+303,Zainab,credit card,23328.92,January 1,2.35,en cours
+304,Khalid,personal loan,860347.08,2022,2.38,terminé
+305,Aisha,personal loan,164077.97,2022,2.05,défaillant
+306,Fatima,credit card,869206.69,March 15,2.16,défaillant
+307,Aisha,credit card,584730.24,December 25,3.94,terminé
+308,Omar,student loan,270891.08,March 15,3.64,défaillant
+309,Ali,credit card,857903.47,2022,4.04,défaillant
+310,Aisha,mortgage,796202.14,2022,2.7,défaillant
+311,Omar,student loan,617515.27,January 1,3.8,terminé
+312,Khalid,mortgage,581697.22,2022,4.34,défaillant
+313,Ali,auto loan,487175.07,September 10,2.71,terminé
+314,Layla,credit card,672769.34,September 10,4.18,défaillant
+315,Zainab,credit card,440413.82,2022,3.2,terminé
+316,Nour,student loan,725521.79,2022,4.43,en cours
+317,Youssef,credit card,533401.07,June 30,3.34,en cours
+318,Omar,credit card,525599.83,March 15,4.86,en cours
+319,Omar,auto loan,562445.48,December 25,3.0,défaillant
+320,Nour,mortgage,335937.81,March 15,3.99,en cours
+321,Aisha,auto loan,271955.09,2022,4.01,en cours
+322,Abdullah,personal loan,449370.84,January 1,3.52,terminé
+323,Abdullah,personal loan,659563.65,2022,4.41,en cours
+324,Khalid,mortgage,334394.82,March 15,4.58,en cours
+325,Layla,credit card,409214.99,2022,2.52,défaillant
+326,Nour,student loan,800977.41,2022,2.12,terminé
+327,Ali,credit card,898110.48,December 25,4.79,terminé
+328,Abdullah,mortgage,832851.92,2022,4.96,terminé
+329,Layla,mortgage,575201.05,2022,4.35,terminé
+330,Khalid,personal loan,53179.62,September 10,2.2,en cours
+331,Layla,student loan,682614.81,January 1,2.47,terminé
+332,Aisha,credit card,752463.1,June 30,4.88,en cours
+333,Nour,mortgage,855039.65,2022,4.04,en cours
+334,Ali,mortgage,578582.77,2022,2.49,en cours
+335,Zainab,personal loan,403653.47,2022,4.08,défaillant
+336,Fatima,personal loan,926155.89,September 10,3.23,terminé
+337,Fatima,auto loan,536435.6,March 15,4.52,terminé
+338,Fatima,mortgage,208348.88,March 15,4.31,défaillant
+339,Khalid,student loan,540009.37,March 15,2.28,en cours
+340,Zainab,personal loan,593372.16,September 10,4.13,en cours
+341,Omar,credit card,534132.29,March 15,2.1,défaillant
+342,Abdullah,mortgage,646628.7,September 10,3.52,en cours
+343,Fatima,credit card,657084.34,June 30,3.0,en cours
+344,Omar,student loan,798803.81,September 10,4.9,terminé
+345,Fatima,mortgage,367348.79,2022,3.51,en cours
+346,Youssef,mortgage,553830.42,2022,4.88,terminé
+347,Youssef,student loan,216605.44,March 15,3.11,défaillant
+348,Omar,credit card,190006.67,January 1,2.87,en cours
+349,Fatima,personal loan,332061.42,June 30,3.68,défaillant
+350,Zainab,personal loan,275864.62,January 1,3.25,en cours
+351,Zainab,personal loan,738241.5,2022,4.42,en cours
+352,Fatima,auto loan,421506.77,2022,3.25,terminé
+353,Youssef,personal loan,590405.73,2022,3.28,en cours
+354,Ali,credit card,187614.7,December 25,2.43,en cours
+355,Zainab,auto loan,692072.11,June 30,4.67,défaillant
+356,Abdullah,student loan,758633.43,2022,2.92,en cours
+357,Abdullah,credit card,427151.57,March 15,3.32,terminé
+358,Abdullah,auto loan,326703.7,2022,2.27,terminé
+359,Fatima,personal loan,642547.79,2022,3.54,terminé
+360,Fatima,auto loan,283152.23,2022,3.78,en cours
+361,Abdullah,credit card,19388.22,December 25,4.63,terminé
+362,Youssef,student loan,565585.0,2022,2.13,défaillant
+363,Khalid,personal loan,614239.92,June 30,3.71,en cours
+364,Youssef,auto loan,867416.01,September 10,3.83,défaillant
+365,Omar,credit card,872548.16,2022,2.47,défaillant
+366,Ali,auto loan,163881.47,2022,2.57,en cours
+367,Zainab,personal loan,837540.92,December 25,4.84,défaillant
+368,Zainab,personal loan,266158.3,2022,2.01,en cours
+369,Khalid,student loan,302173.72,2022,2.31,défaillant
+370,Abdullah,credit card,825314.83,June 30,4.42,terminé
+371,Fatima,mortgage,565731.57,2022,4.67,défaillant
+372,Youssef,auto loan,22653.86,2022,2.34,défaillant
+373,Fatima,student loan,723717.72,December 25,2.14,en cours
+374,Fatima,auto loan,277222.0,September 10,3.53,en cours
+375,Layla,student loan,387010.14,March 15,3.33,en cours
+376,Nour,personal loan,489922.59,June 30,2.31,terminé
+377,Ali,student loan,464676.56,December 25,4.36,terminé
+378,Khalid,mortgage,699481.17,September 10,2.4,terminé
+379,Fatima,credit card,866503.89,2022,2.16,terminé
+380,Aisha,student loan,275472.88,September 10,3.68,terminé
+381,Layla,personal loan,280935.64,2022,3.47,défaillant
+382,Ali,student loan,125445.12,December 25,4.46,en cours
+383,Abdullah,student loan,784014.03,2022,3.89,défaillant
+384,Ali,credit card,860270.07,December 25,3.19,défaillant
+385,Nour,mortgage,846578.45,2022,3.33,en cours
+386,Nour,personal loan,267459.02,June 30,3.5,en cours
+387,Ali,student loan,89704.41,June 30,3.07,défaillant
+388,Youssef,personal loan,674387.53,2022,4.95,en cours
+389,Zainab,student loan,306000.51,March 15,2.42,en cours
+390,Abdullah,personal loan,216917.28,June 30,4.37,défaillant
+391,Aisha,mortgage,208099.03,September 10,2.62,terminé
+392,Omar,student loan,383893.35,June 30,2.65,en cours
+393,Abdullah,personal loan,911614.17,2022,3.03,défaillant
+394,Layla,personal loan,893247.04,2022,2.53,en cours
+395,Ali,credit card,642161.62,2022,4.18,défaillant
+396,Abdullah,mortgage,428159.22,2022,3.41,en cours
+397,Aisha,mortgage,837791.91,March 15,3.86,terminé
+398,Youssef,student loan,659340.81,2022,4.03,terminé
+399,Fatima,credit card,802646.21,June 30,3.87,défaillant
+400,Youssef,personal loan,519248.36,June 30,3.14,terminé
+401,Layla,credit card,534561.32,2022,4.88,en cours
+402,Youssef,credit card,498516.45,September 10,4.0,en cours
+403,Zainab,credit card,892545.08,January 1,4.9,défaillant
+404,Ali,personal loan,40302.62,2022,3.14,en cours
+405,Ali,auto loan,271525.83,2022,3.84,en cours
+406,Aisha,mortgage,772447.94,January 1,2.16,en cours
+407,Abdullah,mortgage,984847.88,2022,2.14,en cours
+408,Youssef,mortgage,197737.9,2022,4.62,terminé
+409,Aisha,personal loan,842737.33,December 25,2.35,terminé
+410,Youssef,credit card,197710.85,2022,4.87,en cours
+411,Abdullah,student loan,250592.45,2022,2.39,défaillant
+412,Khalid,auto loan,742560.56,December 25,3.68,terminé
+413,Fatima,student loan,827943.51,September 10,2.01,terminé
+414,Layla,personal loan,873905.91,2022,4.8,terminé
+415,Abdullah,mortgage,89262.53,2022,2.44,terminé
+416,Omar,personal loan,788481.84,September 10,3.89,terminé
+417,Abdullah,student loan,642109.9,2022,3.53,défaillant
+418,Youssef,mortgage,808754.33,January 1,3.23,terminé
+419,Ali,personal loan,600794.76,December 25,2.92,terminé
+420,Nour,personal loan,503346.39,September 10,3.59,défaillant
+421,Abdullah,credit card,799457.44,2022,2.72,terminé
+422,Abdullah,student loan,182060.25,December 25,2.1,terminé
+423,Khalid,credit card,855303.96,September 10,3.29,défaillant
+424,Nour,mortgage,227993.69,March 15,2.33,terminé
+425,Aisha,personal loan,694645.59,January 1,3.78,en cours
+426,Youssef,auto loan,537639.07,2022,4.31,terminé
+427,Aisha,personal loan,651871.11,2022,4.94,défaillant
+428,Nour,mortgage,684918.71,2022,2.38,en cours
+429,Zainab,student loan,56205.39,December 25,4.99,défaillant
+430,Aisha,auto loan,90109.14,2022,4.49,défaillant
+431,Nour,auto loan,425472.76,September 10,4.34,terminé
+432,Ali,credit card,211429.84,September 10,4.88,en cours
+433,Khalid,mortgage,80502.3,2022,2.11,défaillant
+434,Zainab,personal loan,663420.97,2022,3.28,en cours
+435,Youssef,credit card,308415.88,2022,2.23,terminé
+436,Abdullah,personal loan,949452.08,2022,3.42,défaillant
+437,Abdullah,personal loan,708503.61,December 25,2.15,défaillant
+438,Omar,personal loan,44869.83,2022,4.25,défaillant
+439,Youssef,student loan,322443.65,December 25,2.7,terminé
+440,Nour,student loan,830188.8,2022,3.85,terminé
+441,Khalid,student loan,911814.96,2022,3.69,défaillant
+442,Abdullah,student loan,335690.23,2022,2.82,défaillant
+443,Omar,credit card,141892.74,2022,4.23,en cours
+444,Nour,personal loan,740393.93,September 10,4.75,terminé
+445,Fatima,mortgage,43682.83,September 10,4.23,terminé
+446,Ali,auto loan,376175.1,2022,4.25,défaillant
+447,Ali,personal loan,259078.23,January 1,4.23,défaillant
+448,Zainab,personal loan,871630.25,2022,3.29,en cours
+449,Nour,credit card,14230.39,2022,2.93,terminé
+450,Ali,credit card,973060.29,2022,4.7,en cours
+451,Nour,mortgage,958160.64,2022,4.9,terminé
+452,Youssef,credit card,282189.49,March 15,3.29,défaillant
+453,Aisha,mortgage,362833.74,June 30,3.41,en cours
+454,Ali,auto loan,874634.91,2022,2.99,en cours
+455,Zainab,mortgage,536931.67,March 15,3.62,en cours
+456,Fatima,auto loan,403888.61,December 25,3.16,en cours
+457,Youssef,mortgage,628592.51,2022,4.19,défaillant
+458,Khalid,mortgage,155684.8,2022,4.95,défaillant
+459,Khalid,personal loan,727275.38,January 1,2.02,en cours
+460,Aisha,auto loan,565626.89,December 25,4.37,terminé
+461,Nour,student loan,562104.27,January 1,2.48,terminé
+462,Ali,mortgage,99846.48,January 1,3.0,défaillant
+463,Aisha,student loan,23561.21,2022,2.74,terminé
+464,Layla,mortgage,964032.96,January 1,4.23,terminé
+465,Abdullah,mortgage,323014.57,2022,2.29,défaillant
+466,Khalid,personal loan,696272.33,January 1,3.2,défaillant
+467,Nour,student loan,761963.43,September 10,3.18,en cours
+468,Abdullah,auto loan,403996.2,2022,3.14,terminé
+469,Omar,auto loan,26931.77,2022,3.33,en cours
+470,Nour,personal loan,183121.71,December 25,3.06,en cours
+471,Nour,auto loan,456451.68,January 1,2.06,terminé
+472,Khalid,student loan,366185.85,September 10,3.27,en cours
+473,Omar,auto loan,99295.62,December 25,3.04,en cours
+474,Ali,student loan,702868.48,2022,4.37,défaillant
+475,Youssef,personal loan,587523.71,2022,3.05,terminé
+476,Abdullah,student loan,255866.8,December 25,3.37,terminé
+477,Layla,student loan,217824.62,June 30,3.83,défaillant
+478,Nour,credit card,589158.34,December 25,3.79,terminé
+479,Abdullah,mortgage,604806.84,September 10,4.16,terminé
+480,Khalid,auto loan,345967.67,June 30,4.52,défaillant
+481,Aisha,personal loan,825331.09,2022,3.75,terminé
+482,Zainab,student loan,682602.67,2022,2.72,en cours
+483,Aisha,mortgage,973610.78,December 25,3.42,terminé
+484,Youssef,personal loan,44695.11,2022,2.19,défaillant
+485,Nour,credit card,108798.94,2022,3.34,terminé
+486,Layla,mortgage,423964.52,January 1,2.77,défaillant
+487,Youssef,personal loan,712814.07,2022,4.64,défaillant
+488,Zainab,credit card,782637.75,2022,4.9,terminé
+489,Aisha,student loan,493334.22,2022,2.45,terminé
+490,Nour,auto loan,693409.54,2022,4.32,terminé
+491,Layla,mortgage,854265.0,March 15,2.66,défaillant
+492,Ali,auto loan,885358.08,June 30,5.0,en cours
+493,Fatima,credit card,389071.3,January 1,2.21,défaillant
+494,Youssef,student loan,663255.42,2022,4.48,défaillant
+495,Fatima,personal loan,373801.37,2022,4.29,en cours
+496,Layla,personal loan,265809.85,2022,3.39,terminé
+497,Youssef,personal loan,177452.51,2022,3.0,défaillant
+498,Zainab,credit card,343707.54,September 10,3.22,en cours
+499,Layla,student loan,666832.36,2022,4.37,en cours
+500,Abdullah,mortgage,899730.89,2022,3.51,terminé
+501,Youssef,student loan,311177.37,2022,2.63,en cours
+502,Zainab,credit card,948790.25,December 25,3.12,terminé
+503,Khalid,student loan,70257.36,December 25,3.66,terminé
+504,Layla,mortgage,551495.1,March 15,3.43,terminé
+505,Khalid,student loan,919758.63,March 15,2.79,défaillant
+506,Aisha,mortgage,595480.05,September 10,4.15,en cours
+507,Abdullah,auto loan,388490.77,2022,2.98,terminé
+508,Layla,personal loan,140393.01,March 15,4.91,défaillant
+509,Ali,mortgage,468138.68,2022,4.01,en cours
+510,Fatima,student loan,310159.15,December 25,4.97,terminé
+511,Abdullah,student loan,896415.43,2022,3.27,terminé
+512,Youssef,credit card,267819.12,December 25,4.2,défaillant
+513,Fatima,personal loan,474729.46,2022,2.14,terminé
+514,Zainab,auto loan,214395.5,2022,2.96,terminé
+515,Nour,student loan,139940.78,December 25,4.49,terminé
+516,Nour,student loan,479486.74,December 25,2.58,terminé
+517,Aisha,student loan,929491.24,June 30,4.48,terminé
+518,Zainab,credit card,966727.97,2022,3.89,terminé
+519,Abdullah,student loan,936917.08,January 1,3.4,en cours
+520,Youssef,personal loan,741534.49,March 15,3.32,défaillant
+521,Nour,personal loan,129341.98,March 15,3.84,terminé
+522,Omar,auto loan,902928.84,September 10,3.18,terminé
+523,Nour,auto loan,397411.9,September 10,3.49,terminé
+524,Omar,auto loan,420217.44,March 15,2.85,défaillant
+525,Zainab,personal loan,61158.56,January 1,2.32,en cours
+526,Zainab,auto loan,208015.77,2022,5.0,en cours
+527,Zainab,mortgage,918358.47,2022,3.31,terminé
+528,Youssef,mortgage,141192.64,March 15,4.77,en cours
+529,Ali,auto loan,133906.1,2022,2.87,défaillant
+530,Ali,credit card,328790.99,June 30,4.35,défaillant
+531,Zainab,student loan,98401.21,2022,4.02,terminé
+532,Zainab,personal loan,166679.72,December 25,2.29,terminé
+533,Khalid,personal loan,972633.29,2022,4.9,en cours
+534,Fatima,mortgage,422321.27,June 30,2.13,défaillant
+535,Aisha,auto loan,443344.16,March 15,3.42,en cours
+536,Omar,credit card,316613.29,2022,4.62,défaillant
+537,Zainab,personal loan,466301.2,September 10,2.07,terminé
+538,Youssef,mortgage,968862.14,2022,4.92,défaillant
+539,Ali,mortgage,663254.17,January 1,3.56,terminé
+540,Aisha,student loan,450491.97,March 15,2.55,terminé
+541,Omar,mortgage,937480.59,September 10,3.39,terminé
+542,Abdullah,auto loan,625505.06,September 10,4.41,terminé
+543,Ali,personal loan,130812.99,June 30,2.72,en cours
+544,Zainab,personal loan,14598.32,2022,4.26,défaillant
+545,Omar,mortgage,32715.56,2022,2.25,terminé
+546,Zainab,student loan,714340.39,December 25,3.31,en cours
+547,Fatima,student loan,227696.85,2022,3.84,défaillant
+548,Khalid,credit card,590103.02,2022,2.14,en cours
+549,Aisha,mortgage,714062.18,January 1,3.59,défaillant
+550,Zainab,credit card,620641.29,2022,4.47,terminé
+551,Youssef,student loan,331639.85,September 10,3.86,défaillant
+552,Fatima,personal loan,300379.6,September 10,4.39,terminé
+553,Nour,auto loan,80017.49,2022,2.66,défaillant
+554,Youssef,auto loan,808845.14,2022,4.6,terminé
+555,Layla,student loan,616767.1,2022,4.22,terminé
+556,Ali,mortgage,51617.1,March 15,2.27,en cours
+557,Nour,credit card,999062.98,September 10,2.91,terminé
+558,Aisha,personal loan,94574.0,2022,4.61,en cours
+559,Layla,auto loan,552646.53,2022,2.32,défaillant
+560,Nour,auto loan,147726.95,2022,4.1,terminé
+561,Zainab,mortgage,107671.45,September 10,2.26,défaillant
+562,Nour,student loan,17616.41,December 25,3.19,en cours
+563,Abdullah,student loan,329782.49,September 10,4.78,défaillant
+564,Ali,mortgage,928364.7,2022,2.63,en cours
+565,Layla,mortgage,51999.55,December 25,2.03,terminé
+566,Nour,mortgage,639558.01,December 25,4.87,terminé
+567,Fatima,personal loan,962187.36,March 15,3.66,défaillant
+568,Nour,student loan,409228.11,2022,4.8,défaillant
+569,Nour,credit card,748971.17,June 30,3.6,en cours
+570,Youssef,personal loan,414472.58,January 1,2.89,terminé
+571,Youssef,credit card,482992.2,June 30,3.45,en cours
+572,Ali,mortgage,218723.97,December 25,3.69,en cours
+573,Abdullah,mortgage,35313.35,September 10,4.99,en cours
+574,Abdullah,student loan,297363.1,2022,3.77,en cours
+575,Youssef,mortgage,987864.13,June 30,2.4,en cours
+576,Youssef,mortgage,106325.02,January 1,2.74,en cours
+577,Layla,student loan,945544.58,2022,2.06,en cours
+578,Abdullah,credit card,976771.38,2022,3.86,en cours
+579,Fatima,student loan,168614.96,June 30,4.21,défaillant
+580,Fatima,personal loan,63559.39,January 1,3.74,terminé
+581,Nour,mortgage,196412.53,2022,2.85,défaillant
+582,Layla,credit card,626459.7,2022,3.51,terminé
+583,Fatima,credit card,671983.71,2022,4.5,en cours
+584,Nour,mortgage,277572.27,December 25,3.55,défaillant
+585,Khalid,personal loan,378773.37,March 15,3.2,en cours
+586,Omar,credit card,438096.15,2022,4.99,en cours
+587,Youssef,mortgage,725624.18,2022,2.39,défaillant
+588,Zainab,student loan,325374.24,2022,2.88,défaillant
+589,Khalid,student loan,942423.96,March 15,3.36,défaillant
+590,Fatima,personal loan,726574.97,March 15,2.11,défaillant
+591,Abdullah,credit card,849002.32,2022,2.84,défaillant
+592,Aisha,mortgage,366465.85,2022,3.83,terminé
+593,Omar,student loan,456702.43,January 1,4.38,défaillant
+594,Layla,credit card,358070.38,March 15,2.83,terminé
+595,Khalid,personal loan,434464.46,June 30,4.74,défaillant
+596,Omar,student loan,59795.33,December 25,2.61,en cours
+597,Aisha,personal loan,447425.84,January 1,3.8,en cours
+598,Nour,credit card,999506.76,2022,3.65,terminé
+599,Youssef,personal loan,802154.13,2022,3.38,terminé
+600,Zainab,mortgage,99025.69,2022,2.62,défaillant
+601,Youssef,mortgage,783292.38,January 1,2.11,défaillant
+602,Layla,credit card,785721.68,2022,3.51,défaillant
+603,Nour,student loan,687496.33,September 10,3.19,terminé
+604,Nour,credit card,324990.79,September 10,4.48,en cours
+605,Abdullah,student loan,177289.12,2022,4.34,terminé
+606,Fatima,credit card,172891.4,2022,4.68,en cours
+607,Zainab,personal loan,457098.86,January 1,3.01,terminé
+608,Aisha,credit card,770805.65,June 30,2.55,terminé
+609,Khalid,credit card,469343.73,December 25,4.69,défaillant
+610,Ali,mortgage,44812.1,2022,2.0,défaillant
+611,Layla,mortgage,993847.81,June 30,2.03,en cours
+612,Ali,personal loan,503169.16,September 10,3.35,terminé
+613,Zainab,mortgage,395499.21,2022,2.59,terminé
+614,Abdullah,personal loan,947709.94,March 15,4.16,en cours
+615,Ali,credit card,551831.09,2022,4.56,défaillant
+616,Layla,mortgage,746568.81,2022,2.94,défaillant
+617,Nour,credit card,895121.33,January 1,4.0,en cours
+618,Youssef,credit card,952230.75,September 10,4.49,terminé
+619,Fatima,personal loan,953595.14,January 1,2.86,terminé
+620,Layla,credit card,610149.51,2022,2.86,terminé
+621,Abdullah,auto loan,644716.34,2022,3.5,terminé
+622,Abdullah,student loan,201377.8,2022,4.24,défaillant
+623,Omar,student loan,421304.0,2022,3.9,en cours
+624,Ali,auto loan,176337.77,2022,4.92,en cours
+625,Abdullah,student loan,518794.43,December 25,3.45,terminé
+626,Layla,auto loan,129498.18,January 1,3.41,en cours
+627,Zainab,credit card,604899.97,2022,2.08,en cours
+628,Abdullah,mortgage,225601.27,March 15,3.44,en cours
+629,Omar,student loan,780312.66,December 25,4.06,défaillant
+630,Abdullah,credit card,469518.35,January 1,3.48,terminé
+631,Ali,credit card,143300.85,September 10,4.32,en cours
+632,Aisha,mortgage,101556.87,2022,3.62,défaillant
+633,Ali,student loan,597450.22,December 25,3.62,en cours
+634,Nour,personal loan,684220.0,2022,2.88,en cours
+635,Aisha,mortgage,403353.14,September 10,4.93,défaillant
+636,Khalid,personal loan,255099.75,December 25,2.57,en cours
+637,Abdullah,credit card,240409.38,2022,2.39,terminé
+638,Aisha,auto loan,632868.3,2022,3.1,défaillant
+639,Khalid,mortgage,687540.51,December 25,4.97,en cours
+640,Omar,auto loan,740322.02,December 25,4.44,défaillant
+641,Fatima,student loan,824249.84,June 30,2.75,défaillant
+642,Omar,mortgage,771546.1,June 30,2.39,terminé
+643,Fatima,mortgage,464114.86,2022,2.2,terminé
+644,Abdullah,auto loan,911277.51,2022,4.74,en cours
+645,Fatima,mortgage,257672.81,January 1,4.61,en cours
+646,Omar,mortgage,584498.3,March 15,2.87,défaillant
+647,Fatima,mortgage,511675.17,September 10,4.01,en cours
+648,Zainab,auto loan,586874.28,January 1,4.5,défaillant
+649,Khalid,personal loan,16097.33,June 30,3.57,défaillant
+650,Youssef,personal loan,836140.56,January 1,2.16,terminé
+651,Layla,credit card,15221.8,2022,2.42,terminé
+652,Abdullah,personal loan,549671.26,March 15,4.66,défaillant
+653,Zainab,credit card,132393.33,2022,4.75,défaillant
+654,Fatima,personal loan,149940.86,September 10,4.45,en cours
+655,Abdullah,auto loan,191137.03,January 1,2.13,en cours
+656,Abdullah,personal loan,69352.92,2022,4.38,défaillant
+657,Khalid,mortgage,316151.33,2022,2.28,défaillant
+658,Aisha,credit card,106349.75,June 30,2.7,terminé
+659,Layla,auto loan,858139.44,January 1,4.25,défaillant
+660,Layla,auto loan,706023.8,2022,2.13,défaillant
+661,Nour,auto loan,772199.82,2022,2.89,défaillant
+662,Nour,mortgage,262563.04,2022,3.05,terminé
+663,Abdullah,mortgage,554272.88,2022,3.98,terminé
+664,Zainab,auto loan,13520.77,September 10,3.75,terminé
+665,Abdullah,mortgage,698663.86,2022,2.08,terminé
+666,Omar,auto loan,745643.6,2022,4.66,en cours
+667,Omar,credit card,324731.85,2022,3.36,terminé
+668,Fatima,student loan,85014.69,2022,3.82,défaillant
+669,Fatima,mortgage,40532.67,2022,3.35,défaillant
+670,Khalid,student loan,117951.0,March 15,3.1,terminé
+671,Zainab,personal loan,653956.69,June 30,4.73,en cours
+672,Nour,student loan,327233.99,2022,4.73,en cours
+673,Nour,credit card,573757.1,September 10,3.88,défaillant
+674,Youssef,auto loan,879531.86,2022,2.97,défaillant
+675,Aisha,student loan,920934.9,2022,4.48,terminé
+676,Khalid,mortgage,144759.74,2022,4.02,défaillant
+677,Aisha,mortgage,296619.54,January 1,2.25,défaillant
+678,Aisha,personal loan,613829.8,2022,2.72,terminé
+679,Omar,personal loan,571290.32,March 15,3.5,défaillant
+680,Aisha,mortgage,3467.72,2022,3.81,terminé
+681,Nour,personal loan,856919.22,March 15,4.35,défaillant
+682,Youssef,student loan,847535.9,2022,3.13,terminé
+683,Omar,auto loan,686628.39,2022,4.91,terminé
+684,Khalid,mortgage,758241.5,December 25,3.66,terminé
+685,Aisha,personal loan,531128.01,2022,3.91,en cours
+686,Fatima,student loan,885821.35,2022,2.35,en cours
+687,Fatima,mortgage,221096.0,January 1,3.81,terminé
+688,Layla,student loan,276972.32,2022,2.36,défaillant
+689,Zainab,auto loan,959997.94,2022,4.75,terminé
+690,Youssef,personal loan,736503.21,June 30,3.72,en cours
+691,Fatima,mortgage,45704.17,2022,3.89,terminé
+692,Youssef,mortgage,127387.93,2022,2.31,en cours
+693,Khalid,auto loan,743423.88,June 30,2.27,en cours
+694,Khalid,personal loan,354916.01,September 10,3.31,défaillant
+695,Omar,credit card,415897.87,2022,3.17,terminé
+696,Aisha,credit card,523210.21,2022,3.39,terminé
+697,Ali,credit card,769064.89,2022,3.87,terminé
+698,Omar,mortgage,745183.52,2022,4.87,défaillant
+699,Khalid,credit card,312298.61,2022,2.84,en cours
+700,Aisha,student loan,372969.59,2022,2.21,terminé
+701,Ali,student loan,479231.75,2022,2.96,en cours
+702,Layla,student loan,771987.91,2022,4.56,terminé
+703,Nour,mortgage,61311.48,2022,3.97,défaillant
+704,Layla,personal loan,10045.12,December 25,4.13,en cours
+705,Layla,mortgage,358509.8,2022,2.98,défaillant
+706,Fatima,personal loan,22169.14,2022,3.09,défaillant
+707,Nour,personal loan,999113.91,2022,4.16,en cours
+708,Khalid,student loan,827962.84,January 1,4.44,défaillant
+709,Ali,mortgage,304521.42,2022,3.44,défaillant
+710,Khalid,mortgage,202000.8,2022,2.36,en cours
+711,Abdullah,auto loan,52625.35,2022,2.13,terminé
+712,Youssef,mortgage,262344.09,March 15,4.13,terminé
+713,Abdullah,personal loan,410766.51,September 10,4.57,défaillant
+714,Omar,personal loan,332621.59,2022,3.13,en cours
+715,Ali,student loan,871694.38,2022,4.32,en cours
+716,Omar,personal loan,88737.24,June 30,4.04,défaillant
+717,Aisha,credit card,891474.76,2022,3.56,terminé
+718,Youssef,auto loan,615241.79,September 10,4.85,défaillant
+719,Layla,credit card,447324.62,2022,4.6,terminé
+720,Youssef,credit card,924709.52,2022,4.0,terminé
+721,Youssef,auto loan,935235.44,September 10,4.52,défaillant
+722,Zainab,auto loan,427224.02,September 10,4.99,défaillant
+723,Aisha,auto loan,933793.45,March 15,2.5,défaillant
+724,Omar,personal loan,444636.07,2022,3.5,en cours
+725,Abdullah,credit card,25527.46,2022,4.83,défaillant
+726,Khalid,personal loan,776473.72,2022,2.54,terminé
+727,Abdullah,personal loan,896546.29,2022,4.36,terminé
+728,Omar,mortgage,636215.26,March 15,4.28,terminé
+729,Khalid,auto loan,369351.49,2022,3.27,défaillant
+730,Khalid,credit card,674681.5,2022,2.28,terminé
+731,Layla,mortgage,968372.1,2022,3.09,terminé
+732,Layla,auto loan,618073.33,2022,4.65,en cours
+733,Khalid,personal loan,927031.03,2022,3.17,terminé
+734,Khalid,mortgage,713107.06,June 30,4.02,terminé
+735,Abdullah,mortgage,215724.84,December 25,3.81,terminé
+736,Fatima,auto loan,520520.1,January 1,3.23,défaillant
+737,Khalid,mortgage,957652.66,September 10,4.51,en cours
+738,Fatima,student loan,689783.17,December 25,2.02,défaillant
+739,Nour,personal loan,182115.45,March 15,4.71,terminé
+740,Aisha,auto loan,998633.66,2022,2.52,défaillant
+741,Youssef,mortgage,738403.76,September 10,4.13,terminé
+742,Khalid,student loan,569919.86,September 10,3.81,en cours
+743,Zainab,student loan,889119.98,September 10,4.59,terminé
+744,Zainab,auto loan,547031.66,December 25,3.25,terminé
+745,Omar,student loan,493990.3,January 1,2.65,en cours
+746,Ali,auto loan,511362.22,December 25,4.83,en cours
+747,Ali,credit card,298314.58,2022,4.18,terminé
+748,Abdullah,credit card,616648.87,December 25,2.85,en cours
+749,Aisha,mortgage,913536.05,September 10,4.04,en cours
+750,Fatima,mortgage,640884.29,2022,4.73,défaillant
+751,Youssef,student loan,266570.73,June 30,4.21,en cours
+752,Fatima,mortgage,171330.66,March 15,3.57,défaillant
+753,Ali,student loan,666744.28,January 1,4.9,en cours
+754,Omar,credit card,182525.96,January 1,4.35,en cours
+755,Youssef,personal loan,540395.33,December 25,2.28,en cours
+756,Abdullah,mortgage,703303.54,2022,3.19,terminé
+757,Nour,personal loan,755929.07,2022,4.72,en cours
+758,Youssef,mortgage,572880.32,2022,2.08,en cours
+759,Layla,personal loan,909187.24,January 1,3.43,défaillant
+760,Khalid,credit card,672848.58,June 30,4.61,terminé
+761,Nour,auto loan,378922.17,2022,3.81,terminé
+762,Abdullah,personal loan,622356.14,January 1,3.37,en cours
+763,Layla,auto loan,455939.47,2022,2.8,défaillant
+764,Zainab,mortgage,279001.24,January 1,2.99,en cours
+765,Omar,personal loan,792243.13,December 25,3.49,terminé
+766,Abdullah,personal loan,789819.77,2022,4.22,terminé
+767,Zainab,personal loan,811813.78,2022,2.58,en cours
+768,Layla,credit card,823651.59,2022,4.66,terminé
+769,Youssef,credit card,504008.57,January 1,2.03,en cours
+770,Nour,personal loan,954401.89,March 15,4.87,terminé
+771,Aisha,personal loan,926984.41,2022,3.82,en cours
+772,Fatima,credit card,867320.02,2022,4.28,défaillant
+773,Ali,mortgage,162179.52,2022,4.1,terminé
+774,Abdullah,credit card,35662.21,January 1,3.56,terminé
+775,Nour,student loan,164717.34,2022,2.84,terminé
+776,Abdullah,credit card,141725.87,January 1,3.79,terminé
+777,Aisha,auto loan,254814.1,September 10,2.94,terminé
+778,Fatima,credit card,712518.67,March 15,3.19,terminé
+779,Abdullah,auto loan,760280.03,January 1,4.53,défaillant
+780,Ali,personal loan,919074.53,2022,4.66,en cours
+781,Khalid,mortgage,464580.72,March 15,4.18,défaillant
+782,Aisha,personal loan,797789.38,September 10,4.18,terminé
+783,Fatima,auto loan,222412.83,September 10,4.17,terminé
+784,Ali,personal loan,166314.39,March 15,3.36,en cours
+785,Fatima,personal loan,781350.18,2022,3.75,terminé
+786,Aisha,mortgage,260270.22,December 25,2.47,en cours
+787,Layla,mortgage,823153.65,January 1,2.61,en cours
+788,Aisha,personal loan,492946.33,2022,3.71,terminé
+789,Ali,student loan,585574.84,2022,4.71,défaillant
+790,Khalid,personal loan,665217.68,2022,2.27,terminé
+791,Khalid,student loan,213587.12,September 10,3.39,en cours
+792,Khalid,student loan,133032.24,2022,2.38,en cours
+793,Zainab,student loan,51782.38,March 15,4.74,en cours
+794,Zainab,credit card,223961.17,March 15,2.65,terminé
+795,Youssef,auto loan,785397.63,2022,2.2,terminé
+796,Aisha,auto loan,325236.88,March 15,2.21,en cours
+797,Nour,student loan,473166.32,2022,3.18,en cours
+798,Zainab,personal loan,645409.12,September 10,2.14,en cours
+799,Layla,credit card,428439.73,January 1,2.32,défaillant
+800,Khalid,credit card,737441.47,March 15,3.41,défaillant
+801,Ali,mortgage,390545.59,December 25,4.44,terminé
+802,Omar,personal loan,945983.93,2022,2.88,défaillant
+803,Youssef,personal loan,333674.43,2022,4.73,terminé
+804,Layla,credit card,826638.61,2022,2.99,en cours
+805,Omar,personal loan,341539.13,2022,4.47,terminé
+806,Aisha,student loan,295949.7,September 10,3.39,défaillant
+807,Khalid,auto loan,469482.34,March 15,2.12,terminé
+808,Aisha,credit card,387997.23,2022,3.55,terminé
+809,Layla,auto loan,979343.77,2022,2.07,terminé
+810,Layla,mortgage,151985.53,2022,3.43,terminé
+811,Abdullah,personal loan,158266.86,2022,4.64,en cours
+812,Abdullah,student loan,558831.4,2022,3.26,défaillant
+813,Youssef,mortgage,80546.03,March 15,2.02,en cours
+814,Zainab,mortgage,159142.43,2022,3.56,en cours
+815,Aisha,student loan,554291.1,March 15,4.9,défaillant
+816,Ali,personal loan,826624.74,2022,4.65,en cours
+817,Fatima,student loan,607268.07,2022,4.92,en cours
+818,Omar,mortgage,663747.59,2022,2.12,en cours
+819,Fatima,credit card,860038.99,September 10,4.97,défaillant
+820,Abdullah,credit card,69811.29,2022,2.01,terminé
+821,Khalid,auto loan,226981.04,June 30,3.09,défaillant
+822,Layla,auto loan,874259.3,January 1,4.69,terminé
+823,Zainab,mortgage,311343.42,January 1,3.01,terminé
+824,Fatima,mortgage,756778.89,2022,3.45,défaillant
+825,Layla,personal loan,186101.82,2022,2.71,en cours
+826,Youssef,credit card,52631.41,2022,4.87,en cours
+827,Nour,credit card,117893.7,September 10,3.6,défaillant
+828,Nour,personal loan,923078.13,January 1,2.14,défaillant
+829,Omar,student loan,784207.5,2022,3.05,terminé
+830,Aisha,student loan,263074.85,December 25,3.2,défaillant
+831,Youssef,credit card,515428.63,December 25,2.08,terminé
+832,Nour,student loan,385240.86,March 15,2.91,défaillant
+833,Aisha,credit card,262421.7,September 10,2.07,en cours
+834,Fatima,credit card,891549.68,June 30,3.77,en cours
+835,Layla,mortgage,25228.86,2022,2.74,terminé
+836,Layla,credit card,578358.59,2022,2.72,terminé
+837,Nour,personal loan,86964.65,January 1,2.12,terminé
+838,Layla,credit card,229769.39,March 15,3.37,en cours
+839,Zainab,personal loan,126371.93,June 30,3.91,en cours
+840,Fatima,credit card,247746.52,2022,4.53,en cours
+841,Khalid,student loan,882302.66,March 15,4.41,en cours
+842,Nour,auto loan,571447.87,December 25,4.98,terminé
+843,Aisha,credit card,85080.69,September 10,3.38,défaillant
+844,Youssef,credit card,855576.04,June 30,2.93,défaillant
+845,Nour,personal loan,110449.98,December 25,3.3,défaillant
+846,Nour,personal loan,986243.72,January 1,3.44,terminé
+847,Ali,mortgage,577999.23,2022,2.43,défaillant
+848,Khalid,auto loan,351465.53,December 25,4.83,en cours
+849,Youssef,personal loan,477939.55,2022,2.63,en cours
+850,Ali,mortgage,213493.01,2022,3.76,défaillant
+851,Zainab,personal loan,372394.34,January 1,4.73,terminé
+852,Fatima,credit card,760086.97,2022,4.85,terminé
+853,Youssef,personal loan,574913.45,2022,3.16,en cours
+854,Fatima,personal loan,143937.13,September 10,2.38,en cours
+855,Abdullah,student loan,855444.33,2022,3.35,terminé
+856,Zainab,mortgage,455249.18,2022,3.11,en cours
+857,Layla,personal loan,128585.1,2022,4.46,en cours
+858,Nour,personal loan,462728.85,2022,4.72,en cours
+859,Abdullah,mortgage,521376.85,2022,3.65,terminé
+860,Fatima,personal loan,769351.26,March 15,3.46,terminé
+861,Layla,credit card,74568.28,2022,3.61,en cours
+862,Ali,credit card,957402.52,June 30,3.64,en cours
+863,Zainab,student loan,868627.78,2022,3.73,défaillant
+864,Ali,student loan,217670.88,March 15,3.39,défaillant
+865,Aisha,credit card,255539.2,March 15,3.04,en cours
+866,Fatima,mortgage,291018.05,2022,4.44,défaillant
+867,Fatima,student loan,589388.18,June 30,4.32,en cours
+868,Omar,personal loan,976445.82,2022,4.69,défaillant
+869,Zainab,student loan,559011.36,January 1,2.13,en cours
+870,Nour,auto loan,976008.86,June 30,2.63,en cours
+871,Youssef,student loan,145175.14,December 25,3.44,terminé
+872,Nour,auto loan,211764.99,2022,4.83,terminé
+873,Omar,student loan,205771.33,March 15,2.06,terminé
+874,Youssef,auto loan,289505.97,2022,3.58,défaillant
+875,Ali,student loan,22849.62,September 10,2.39,en cours
+876,Aisha,credit card,653352.24,January 1,2.81,défaillant
+877,Khalid,personal loan,767198.59,2022,3.06,défaillant
+878,Youssef,mortgage,150645.44,September 10,3.49,terminé
+879,Khalid,credit card,382159.83,2022,4.55,en cours
+880,Youssef,auto loan,411578.56,2022,2.39,en cours
+881,Aisha,auto loan,510595.79,2022,2.1,terminé
+882,Aisha,mortgage,617112.92,September 10,3.51,en cours
+883,Aisha,student loan,349613.5,December 25,2.08,terminé
+884,Abdullah,mortgage,649864.16,2022,2.03,terminé
+885,Layla,auto loan,600823.15,2022,2.54,terminé
+886,Ali,student loan,453267.94,March 15,3.91,en cours
+887,Aisha,student loan,607167.9,June 30,4.02,défaillant
+888,Zainab,mortgage,726098.66,December 25,2.5,défaillant
+889,Youssef,mortgage,652651.95,December 25,4.55,terminé
+890,Youssef,mortgage,413155.44,March 15,2.6,défaillant
+891,Ali,mortgage,131299.88,2022,2.1,terminé
+892,Aisha,mortgage,807487.58,2022,4.86,en cours
+893,Layla,auto loan,585011.81,March 15,3.93,en cours
+894,Abdullah,personal loan,458878.03,2022,4.8,terminé
+895,Fatima,personal loan,134213.74,June 30,3.43,défaillant
+896,Fatima,mortgage,346344.69,December 25,2.32,en cours
+897,Aisha,mortgage,40516.02,2022,4.57,terminé
+898,Khalid,personal loan,983315.63,2022,2.88,en cours
+899,Omar,mortgage,1262.45,2022,3.01,défaillant
+900,Fatima,mortgage,989410.98,2022,5.0,défaillant
+901,Youssef,mortgage,478166.4,September 10,2.78,en cours
+902,Youssef,mortgage,900224.08,December 25,3.93,terminé
+903,Ali,auto loan,55808.63,2022,4.48,terminé
+904,Fatima,auto loan,197053.72,March 15,2.55,défaillant
+905,Ali,auto loan,497886.06,March 15,2.45,terminé
+906,Zainab,student loan,969788.52,2022,2.11,défaillant
+907,Ali,personal loan,640434.12,September 10,3.37,terminé
+908,Omar,student loan,346433.96,2022,4.44,terminé
+909,Youssef,auto loan,91266.03,December 25,3.06,terminé
+910,Aisha,mortgage,2000.84,2022,2.25,en cours
+911,Khalid,mortgage,213021.95,2022,3.88,défaillant
+912,Khalid,student loan,600878.98,March 15,4.3,terminé
+913,Nour,credit card,606909.82,December 25,2.49,défaillant
+914,Fatima,auto loan,356385.45,January 1,3.95,défaillant
+915,Nour,mortgage,539917.5,2022,3.87,défaillant
+916,Youssef,mortgage,72555.34,September 10,3.01,défaillant
+917,Layla,student loan,674623.12,December 25,3.04,terminé
+918,Abdullah,credit card,824609.1,2022,3.76,défaillant
+919,Nour,student loan,148378.68,September 10,4.33,en cours
+920,Abdullah,credit card,217306.28,June 30,3.78,défaillant
+921,Khalid,mortgage,440374.69,September 10,4.97,terminé
+922,Ali,credit card,9830.79,June 30,3.34,terminé
+923,Youssef,auto loan,4711.95,September 10,3.7,terminé
+924,Khalid,personal loan,376852.57,September 10,2.75,terminé
+925,Ali,mortgage,546738.18,March 15,2.5,terminé
+926,Khalid,student loan,693802.35,2022,2.23,défaillant
+927,Ali,personal loan,567185.71,September 10,4.19,terminé
+928,Layla,student loan,466542.47,2022,2.41,en cours
+929,Omar,credit card,468175.77,2022,4.29,défaillant
+930,Abdullah,auto loan,945907.21,2022,4.05,terminé
+931,Omar,auto loan,769479.9,September 10,3.28,terminé
+932,Nour,credit card,884747.59,2022,4.54,terminé
+933,Khalid,mortgage,156502.42,2022,3.34,défaillant
+934,Aisha,personal loan,753959.76,June 30,4.48,en cours
+935,Ali,auto loan,440563.67,December 25,4.96,défaillant
+936,Abdullah,auto loan,67436.98,March 15,4.67,terminé
+937,Youssef,mortgage,158935.85,2022,3.41,en cours
+938,Omar,credit card,698071.96,January 1,4.99,défaillant
+939,Abdullah,personal loan,659310.11,2022,4.64,terminé
+940,Nour,student loan,468813.25,2022,4.83,défaillant
+941,Omar,auto loan,413714.51,September 10,2.61,terminé
+942,Fatima,student loan,40413.34,December 25,2.83,en cours
+943,Layla,auto loan,541393.75,December 25,3.27,terminé
+944,Fatima,credit card,858281.06,June 30,2.94,défaillant
+945,Nour,mortgage,410532.37,June 30,2.51,défaillant
+946,Khalid,student loan,648347.28,January 1,2.23,en cours
+947,Youssef,student loan,595505.29,December 25,3.41,défaillant
+948,Khalid,mortgage,733039.5,2022,4.58,en cours
+949,Abdullah,auto loan,524568.75,January 1,3.4,défaillant
+950,Omar,personal loan,422695.7,2022,3.03,défaillant
+951,Youssef,auto loan,150665.72,March 15,4.61,terminé
+952,Fatima,mortgage,453507.42,2022,2.22,terminé
+953,Khalid,student loan,816777.19,March 15,3.9,défaillant
+954,Ali,mortgage,598949.75,January 1,2.63,défaillant
+955,Youssef,auto loan,365573.01,2022,4.98,défaillant
+956,Khalid,credit card,539037.2,December 25,3.53,terminé
+957,Youssef,auto loan,789425.37,2022,2.13,terminé
+958,Abdullah,personal loan,741205.97,September 10,4.9,en cours
+959,Aisha,credit card,436483.93,June 30,4.59,défaillant
+960,Omar,auto loan,96039.51,December 25,4.32,terminé
+961,Omar,credit card,623210.52,2022,4.68,en cours
+962,Ali,auto loan,841729.16,2022,4.17,terminé
+963,Youssef,credit card,464802.63,2022,2.46,terminé
+964,Nour,mortgage,852479.69,June 30,4.45,défaillant
+965,Khalid,mortgage,380614.41,September 10,3.04,en cours
+966,Fatima,credit card,885390.58,March 15,2.98,défaillant
+967,Zainab,auto loan,830687.55,2022,4.92,défaillant
+968,Layla,student loan,475858.89,December 25,3.2,défaillant
+969,Youssef,student loan,962006.52,2022,4.49,en cours
+970,Layla,mortgage,6064.8,September 10,4.8,terminé
+971,Omar,credit card,890991.06,2022,2.03,en cours
+972,Youssef,personal loan,744886.95,2022,2.97,terminé
+973,Fatima,mortgage,815752.67,December 25,4.48,défaillant
+974,Aisha,mortgage,12825.09,2022,3.6,défaillant
+975,Ali,credit card,122607.31,2022,4.21,en cours
+976,Aisha,mortgage,503063.57,2022,3.75,en cours
+977,Aisha,personal loan,741261.04,June 30,4.62,défaillant
+978,Abdullah,personal loan,329363.97,January 1,2.27,terminé
+979,Layla,student loan,746997.41,2022,2.22,en cours
+980,Nour,personal loan,328960.42,2022,4.95,défaillant
+981,Nour,auto loan,237764.57,June 30,3.9,en cours
+982,Abdullah,mortgage,692683.44,2022,2.39,défaillant
+983,Zainab,auto loan,508646.14,2022,4.76,défaillant
+984,Khalid,student loan,786835.8,September 10,4.58,défaillant
+985,Zainab,mortgage,172943.87,January 1,4.03,en cours
+986,Khalid,personal loan,406507.2,2022,3.29,défaillant
+987,Zainab,student loan,238612.83,2022,2.24,défaillant
+988,Youssef,mortgage,232925.93,September 10,2.2,terminé
+989,Nour,mortgage,473365.27,2022,3.41,défaillant
+990,Zainab,mortgage,177863.1,2022,3.48,en cours
+991,Omar,student loan,42291.04,January 1,3.27,en cours
+992,Zainab,credit card,131366.26,2022,3.73,défaillant
+993,Layla,mortgage,900109.11,2022,3.77,défaillant
+994,Aisha,personal loan,710651.17,2022,3.0,en cours
+995,Nour,credit card,431534.19,March 15,4.07,en cours
+996,Khalid,personal loan,651762.39,September 10,3.37,défaillant
+997,Aisha,personal loan,388158.98,2022,3.47,terminé
+998,Abdullah,mortgage,815428.47,2022,4.92,en cours
+999,Nour,credit card,450884.05,December 25,2.28,terminé
+1000,Youssef,mortgage,803730.18,September 10,2.72,terminé
